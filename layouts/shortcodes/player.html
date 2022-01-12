@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/player.css">
+
+{{ $file := .Get 0}}
+
+  
+<!--HTML5 audio-->
+	<audio id="track" preload="metadata">
+		<source src="{{$file}}?raw=1">
+	</audio>
+
+		<!--Audio Player Interface-->
+		<div id="audioplayer">
+			<button id="pButton" class="fa fa-play-circle-o fa-2x"></button>
+			<span id="timeElapsed"></span>
+		<span>&nbsp;/&nbsp;</span>
+		<span id="duration"></span>
+		<a href="{{$file}}?dl=1" id="dl" style="text-decoration:none;border-bottom-style: none;">
+		  <i class="fa fa-floppy-o fa-2x" aria-hidden="true"></i>
+		</a>
+	</div>
+
+<script type="text/javascript">
+var track = document.getElementById('track'); // id for audio element
+var pButton = document.getElementById('pButton'); // play button
+var timeElapsed = document.getElementById('timeElapsed'); // elapsed time
+var duration = document.getElementById('duration'); // track duration
+
+// play button event listenter
+pButton.addEventListener("click", play);
+
+// Play and Pause
+function play() {
+    // start music
+    if (track.paused) {
+        track.play();
+        // remove play, add pause
+        pButton.className = "";
+        pButton.className = "fa fa-pause-circle-o fa-2x";
+    } else { // pause music
+        track.pause();
+        // remove pause, add play
+        pButton.className = "";
+        pButton.className = "fa fa-play-circle-o fa-2x";
+    }
+}
+
+// duration
+function runWhenLoaded() { 
+  duration.innerHTML = formatTime(track.duration); 
+  
+}
+
+if (!track.readyState) { 
+    track.addEventListener("loadedmetadata", runWhenLoaded);
+} else {
+    runWhenLoaded.call(track);
+}
+
+// current time elapsed
+setInterval(function() {
+    timeElapsed.textContent = formatTime(track.currentTime);
+}, 100);
+
+// nicer time formating
+function formatTime(s, m) {
+    s = Math.floor( s );
+    m = Math.floor( s / 60 );
+    m = m >= 10 ? m : '0' + m;
+    s = Math.floor( s % 60 );
+    s = s >= 10 ? s : '0' + s;
+    return m + ':' + s;
+}
+
+// getPosition
+// Returns elements left position relative to top-left of viewport
+function getPosition(el) {
+    return el.getBoundingClientRect().left;
+}
+</script>
+
+</html>
