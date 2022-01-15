@@ -69,11 +69,8 @@ tapes not available on DatPiff (or those that have been taken down). Still, a
 good idea of the state of play is well within reach (PS the next bit is best
 enjoyed and explored on a desktop browser, if you have one handy)...[^bubbles]
 
-{{< rawhtml >}}
-
 <iframe width="100%" height="700" frameborder="0"
   src="https://observablehq.com/embed/@ewenme/mixtape-kings/2?cells=chart"></iframe>
-{{< /rawhtml >}}
 
 > As detailed in
 > [Mike Bostock's bubble chart block](https://bl.ocks.org/mbostock/4063269),

@@ -15,11 +15,8 @@ and advanced metrics. All of your ~~"old man yells at cloud" conjuring~~
 household favourites are here. Democratized access to xG for casuals everywhere,
 so we can do unholy things like this.
 
-{{< rawhtml >}}
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/cNiXEsfAms">pic.twitter.com/cNiXEsfAms</a></p>&mdash; Ryan O&#39;Hanlon (@rwohan) <a href="https://twitter.com/rwohan/status/1071159056096579585?ref_src=twsrc%5Etfw">December 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{{< /rawhtml >}}
 
 While the site itself is easy to navigate and features nice off-the-shelf
 exploratory viz tools (à la the above radar), many (myself included) can get a
