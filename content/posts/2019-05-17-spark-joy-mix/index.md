@@ -1,5 +1,5 @@
 ---
-title: 'Does This Spark Joy'
+title: 'does this spark joy'
 description: 'Dropping a new mix.'
 date: '2019-05-17'
 slug: does-this-spark-joy

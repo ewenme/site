@@ -1,5 +1,6 @@
 ---
-title: Privacy
+title: privacy
 ---
 
-This website respects your privacy by not storing or collecting any data. There are no client-side analytics or third-party trackers of any kind. It's a shame that more sites are not like this.
+I don't store any data about your visit to my site. There are no client-side
+analytics or third-party trackers of any kind.

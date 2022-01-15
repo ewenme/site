@@ -1,6 +1,6 @@
-baseURL = "https://devinschulz.com"
+baseURL = "https://ewen.io"
 languageCode = "en-us"
-title = "Ewen"
+title = "ewen"
 titleCaseStyle = "AP"
 pygmentsUseClasses = true
 enableGitInfo = true
@@ -21,7 +21,7 @@ angledQuotes = false
 timeFormatRFC3339 = "2006-01-02T15:04:05Z07:00"
 timeFormatDefault = "January 2, 2006"
 timeFormatShort = "Jan 02, 2006"
-description = "Articles about React, JavaScript, testing, best practices, performance, and everything else related to front-end development."
+description = "a"
 
 [params.author]
 name = "ewen"
@@ -31,19 +31,29 @@ twitterHandle = "ewen_"
 [menu]
 
 [[menu.main]]
-name = "About"
+name = "about"
 weight = 1
 url = "/about"
 
+[[menu.main]]
+name = "privacy"
+weight = 2
+url = "/privacy"
+
 [[menu.footer]]
 name = "RSS"
-weight = 2
+weight = 3
 url = "/posts/index.xml"
 
 [[menu.footer]]
-name = "Github"
+name = "email"
+weight = 4
+url = "mailto:ewenme@tutanota.com"
+
+[[menu.footer]]
+name = "github"
 weight = 5
-url = "https://github.com/devinschulz"
+url = "https://github.com/ewenme"
 
 [related]
 threshold = 80
