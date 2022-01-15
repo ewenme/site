@@ -5,11 +5,14 @@ publish = "public"
 
 [context.production.environment]
 HUGO_VERSION = "0.92.0"
+NPM_VERSION = "7.17.0"
 
 # you can lock a version of hugo for a deploy preview
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.92.0"
+NPM_VERSION = "7.17.0"
 
 # you can lock a version of hugo for a branch-deploy (other than previews)
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.92.0"
+NPM_VERSION = "7.17.0"
