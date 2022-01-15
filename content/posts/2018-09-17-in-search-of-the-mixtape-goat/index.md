@@ -1,5 +1,5 @@
 ---
-title: 'In search of the mixtape GOAT'
+title: 'in search of the mixtape GOAT'
 description: 'A data-driven tribute to the best of the mixtape era glow-ups.'
 date: '2018-09-17'
 slug: in-search-of-the-mixtape-goat

@@ -1,5 +1,5 @@
 ---
-title: A decade of Berghain parties, in data
+title: a decade of Berghain parties, in data
 description:
   'Numbers behind the last ten years (almost) at the iconic Berlin club.'
 date: '2019-08-12'

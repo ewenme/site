@@ -1,5 +1,5 @@
 ---
-title: Resident Advisor podcast appearance rankings
+title: resident advisor podcast appearance rankings
 description: "Who features the most in RA's longstanding mix series?"
 date: '2019-08-14'
 slug: ra-podcast-rankings
