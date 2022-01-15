@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "site",
   "version": "1.0.0",
   "description": "My personal blog",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devinschulz/blog.git"
+    "url": "git+https://github.com/ewenme/site.git"
   },
   "author": "Devin Schulz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devinschulz/blog/issues"
+    "url": "https://github.com/ewenme/site/issues"
   },
-  "homepage": "https://github.com/devinschulz/blog#readme",
+  "homepage": "https://github.com/ewenme/site#readme",
   "devDependencies": {
     "@tailwindcss/typography": "^0.4.1",
     "cross-env": "^7.0.3",
