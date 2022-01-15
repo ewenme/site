@@ -28,7 +28,7 @@ the physical lot.
 A user can browse through the individual entries for each of their records, see
 an overview of their whole collection:
 
-![Discogs collection overview](/blog/2017-03-01-vinylspotting-discogs-fairytale_files/discogs-collection-page.png)
+![Discogs collection overview](discogs-collection-page.png)
 
 It's essentially a tabulated view of your records with rudimentary info, and
 some record sleeve thumbnails to boot. The 'collection value' is a new addition
@@ -66,7 +66,7 @@ A few concepts were prominent in my head-space:
 _vinylSpotting_ is now available for diggers everywhere over
 [here](https://apps.ewen.io/vinylspotting), with a tiny showcase below.
 
-![vinylSpotting showcase](/blog/2017-03-01-vinylspotting-discogs-fairytale_files/vinyspotting-preview.gif)
+![vinylSpotting showcase](vinyspotting-preview.gif)
 
 Head over to the app itself to play, then check the
 [github repo](https://github.com/ewenme/vinylspotting) if you want to see the
