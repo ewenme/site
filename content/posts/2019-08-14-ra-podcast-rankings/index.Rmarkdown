@@ -1,0 +1,164 @@
+---
+title: Resident Advisor podcast appearance rankings
+description: "Who features the most in RA's longstanding mix series?"
+date: '2019-08-14'
+slug: ra-podcast-rankings
+tags: ['music', 'r']
+keywords: ["resident advisor", "ra", "podcast", "mix series", "open data"]
+image: "http://www.fazemag.de/wp-content/uploads/2015/12/Bildschirmfoto-2015-12-26-um-21.32.43.png"
+draft: no
+---
+
+```{r set-up, include=FALSE}
+knitr::opts_chunk$set(
+  cache = FALSE, warning = FALSE, message = FALSE, echo = FALSE, 
+  out.width = '75%', dev = 'png', fig.align = 'center'
+  )
+
+library(emo)
+library(ewenthemes)
+library(reactable)
+library(tidyverse)
+library(htmltools)
+library(ghibli)
+```
+
+[Resident Advisor](https://www.residentadvisor.net/) (RA) have run a (roughly) weekly [podcast mix series](https://www.residentadvisor.net/podcast.aspx) since late 2010 (and still going strong). Each edition sees a new artist sequence a mix. I've been tuning in for a long time, and got to wondering which artists have been featured most prominently throughout the archives.
+
+[MixesDB](https://www.mixesdb.com/w/Main_Page) is the self-proclaimed "database for DJ sets, podcasts, radio shows and more". Over there, fans can enter metadata for mixes, including tracklists (i.e. which tracks were played). There's even an [RA Podcast section](https://www.mixesdb.com/w/Category:Resident_Advisor_Podcast), which means that tracks played within mixes in this series are collated in one place (albeit with some missing data). This would help cure my curiosity.  
+
+## MixesDB 2 .csv `r emo::ji("page_with_curl")`
+
+I've started a collection of mix entries and tracklistings data for RA, and other prominent mix series, within the [mixes](https://github.com/ewenme/mixes) GitHub repo (the code is there, too, if you fancy riffing off of this on your own projects). Most of the data is parsed from MixesDB [who openly admit](https://www.mixesdb.com/w/Help:General) that there can be mistakes (the data is entered by community contributors, remember), so [file an issue](https://github.com/ewenme/mixes/issues) if you see anything fugazi.
+
+```{r import-data}
+# import RA tracklists data
+tracklists <- read_csv("https://raw.githubusercontent.com/ewenme/mixes/master/data/resident-advisor-podcast/resident-advisor-podcast-tracklists.csv")
+
+# import RA entries data
+entries <- read_csv("https://raw.githubusercontent.com/ewenme/mixes/master/data/resident-advisor-podcast/resident-advisor-podcast-entries.csv")
+
+# split mix titles
+entry_meta <- str_split_fixed(entries$mix_title, pattern = " - ", n = 2)
+
+# get artist name
+entries$artist_name <- entry_meta[, 1]
+entries$artist_name <- str_trim(str_remove_all(entries$artist_name, "\\((.*?)\\)"))
+
+# count artist appearances
+top_tracks <- tracklists %>% 
+  # remove non-artists
+  filter(!artist_name %in% c("?", "N/A", "Intro"), !is.na(artist_name)) %>% 
+  group_by(artist_name) %>% 
+  summarise(mix_count = n_distinct(mix_url), track_count = n()) %>% 
+  ungroup() %>% 
+  top_n(200, wt = mix_count)
+```
+
+Nonetheless, I dug into the RA Podcast data to find out who's appeared in the most mixes to date. Below is the top ~200 artists according to this metric.[^fullcode]
+
+```{r rankings-tbl}
+
+ra_rankings_tbl <- reactable(
+  as.data.frame(top_tracks),
+  defaultPageSize = 20,
+  defaultSorted = "mix_count",
+  defaultColDef = colDef(headerClass = "header", align = "left"),
+  columns = list(
+    artist_name = colDef(
+      name = "artist",
+      width = 150
+    ),
+    mix_count = colDef(
+      name = "# unique mix appearances",
+      defaultSortOrder = "desc",
+      cell = function(value) {
+        width <- paste0(value * 100 / max(top_tracks$mix_count), "%")
+        value <- format(value, width = 2, justify = "right")
+        bar <- div(
+          class = "bar-chart",
+          style = list(marginRight = "6px"),
+          div(class = "bar", style = list(width = width, 
+                                          backgroundColor = ghibli_palettes$MarnieMedium1[2]))
+        )
+        div(class = "bar-cell", span(class = "number", value), bar)
+      }
+    ),
+    track_count = colDef(
+      name = "total track appearances",
+      defaultSortOrder = "desc",
+      cell = function(value) {
+        width <- paste0(value * 100 / max(top_tracks$track_count), "%")
+        value <- format(value, width = 2, justify = "right")
+        bar <- div(
+          class = "bar-chart",
+          style = list(marginRight = "6px"),
+          div(class = "bar", style = list(width = width, 
+                                          backgroundColor = ghibli_palettes$MarnieMedium1[3]))
+        )
+        div(class = "bar-cell", span(class = "number", value), bar)
+      }
+    )
+  ),
+  highlight = FALSE,
+  compact = TRUE,
+  class = "rankings-tbl"
+)
+
+div(class = "rankings",
+  ra_rankings_tbl
+)
+```
+
+```{css}
+
+.rankings {
+  margin: 0 auto;
+  width: 100%;
+  font-family: "Recursive", sans-serif;
+}
+
+.rankings-tbl {
+  font-size: 14px;
+  line-height: 18px;
+}
+.rankings-tbl a {
+  color: inherit;
+}
+.header {
+  border-bottom: 2px solid #555;
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.header:hover {
+  background-color: #eee;
+}
+.bar-cell {
+  display: flex;
+  align-items: center;
+}
+.number {
+  font-family: "Recursive", sans-serif;
+  font-size: 13.5px;
+  white-space: pre;
+}
+.bar-chart {
+  flex-grow: 1;
+  margin-left: 6px;
+  height: 14px;
+}
+.bar {
+  height: 100%;
+}
+```
+
+It's a big look for Detroit, then, with the Motor City putting up both #1 (Robert Hood) and #2 (Omar S). Here's a personal fave from Rob to ride out on...
+
+<br>
+
+```{r, eval=TRUE}
+blogdown::shortcode("youtube", "yRBJDJx_sjg")
+```
+
+[^fullcode]: You can find the code behind this post [here](https://github.com/rbind/ewenme/blob/master/content/blog/2019-08-14-ra-podcast-rankings.Rmd).
