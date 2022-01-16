@@ -28,3 +28,11 @@ npm start
 ```shell
 npm run build
 ```
+
+## Notes
+
+Create a new post as a page bundle:
+
+```shell
+hugo new --kind post-bundle posts/post-name
+```
