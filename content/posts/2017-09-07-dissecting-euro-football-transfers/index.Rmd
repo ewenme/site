@@ -252,5 +252,5 @@ ggraph(flows, layout = 'kk') +
 
 Notice how little other leagues choose to plunder the Premier League...I'll leave that can of worms for another day.
 
-[^fullcode]: To keep the post concise I don't show all of the code, especially code that generates figures. But you can find the full code [here](https://github.com/rbind/ewenme/blob/master/content/blog/dissecting-euro-football-transfers.Rmd).
+[^fullcode]: To keep the post concise I don't show all of the code, especially code that generates figures. But you can find the full code [here](https://github.com/ewenme/site/blob/main/content/posts/2017-09-07-dissecting-euro-football-transfers/index.Rmd).
 [^disclosed]: Transfer spend in this article refers to *disclosed fees only*. The Guardian did make estimates of fees, where appropriate.

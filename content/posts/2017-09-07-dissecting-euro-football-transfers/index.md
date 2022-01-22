@@ -10,7 +10,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 0.8
-rmd_hash: 84e0a3f4b44ac1a2
+rmd_hash: f63b96a888fa2197
 ---
 
 Followers of European football will be familiar with the infamous transfer
@@ -177,7 +177,7 @@ leave that can of worms for another day.
 [^1]:
     To keep the post concise I don't show all of the code, especially code that
     generates figures. But you can find the full code
-    [here](https://github.com/rbind/ewenme/blob/master/content/blog/dissecting-euro-football-transfers.Rmd).
+    [here](https://github.com/ewenme/site/blob/main/content/posts/2017-09-07-dissecting-euro-football-transfers/index.Rmd).
 
 [^2]:
     Transfer spend in this article refers to _disclosed fees only_. The Guardian
