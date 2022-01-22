@@ -10,7 +10,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 0.8
-rmd_hash: 8a2769979102179c
+rmd_hash: 84e0a3f4b44ac1a2
 ---
 
 Followers of European football will be familiar with the infamous transfer
@@ -92,7 +92,7 @@ in business as the deadline approaches?
 
 <div class="highlight">
 
-<img src="index_files/league-joyplot-1.png" width="640px" style="display: block; margin: auto;" />
+<img src="figs/league-joyplot-1.png" width="640px" style="display: block; margin: auto;" />
 
 </div>
 
@@ -114,7 +114,7 @@ differs from full transfers.
 
 <div class="highlight">
 
-<img src="index_files/loans-1.png" width="640px" style="display: block; margin: auto;" />
+<img src="figs/loans-1.png" width="640px" style="display: block; margin: auto;" />
 
 </div>
 
@@ -131,7 +131,7 @@ is left until those final hours.[^2]
 
 <div class="highlight">
 
-<img src="index_files/deadline-prop-1.png" width="640px" style="display: block; margin: auto;" />
+<img src="figs/deadline-prop-1.png" width="640px" style="display: block; margin: auto;" />
 
 </div>
 
@@ -148,7 +148,7 @@ fears about inequality in spending power reaching fever pitch.
 
 <div class="highlight">
 
-<img src="index_files/league-prop-1.png" width="640px" style="display: block; margin: auto;" />
+<img src="figs/league-prop-1.png" width="640px" style="display: block; margin: auto;" />
 
 </div>
 
@@ -167,7 +167,7 @@ this web of business look like?
 
 <div class="highlight">
 
-<img src="index_files/flows-1.png" width="640px" style="display: block; margin: auto;" />
+<img src="figs/flows-1.png" width="640px" style="display: block; margin: auto;" />
 
 </div>
 

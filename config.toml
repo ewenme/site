@@ -5,6 +5,7 @@ titleCaseStyle = "AP"
 pygmentsUseClasses = true
 enableGitInfo = true
 enableRobotsTXT = true
+ignoreFiles = ['\.Rmd$', '_files$', '_cache$', '\.knit\.md$', '\.utf8\.md$']
 
 [taxonomies]
 tag = "tags"
