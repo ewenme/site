@@ -62,6 +62,10 @@
 
   {{ $postCSSConfig := (dict "config" "postcss.config.js") }}
 
+  {{ range .Params.html_dependencies }}
+  {{ . | safeHTML }}
+{{ end }}
+
   {{ if .Site.IsServer }}
     {{ $css := resources.Get "css/main.css" | toCSS | postCSS $postCSSConfig  }}
     <link rel="stylesheet" href="{{ $css.Permalink | relURL }}" media="screen">
