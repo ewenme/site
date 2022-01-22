@@ -6,3 +6,4 @@ public
 resources/_gen/assets/css/
 /assets/dependencies
 .vercel
+.Rproj.user
