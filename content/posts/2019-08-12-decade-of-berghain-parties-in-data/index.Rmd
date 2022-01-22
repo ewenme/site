@@ -83,4 +83,4 @@ ggplot(lineups_year, aes(x = event_year, y = artist_avg)) +
 
 Shout me if you do anything cool w the data `r emo::ji("fist")`
 
-[^fullcode]: To keep the post concise and pretty for non-coders, I don't show the code. You can find the code [here](https://github.com/rbind/ewenme/blob/master/content/blog/2019-08-12-decade-of-berghain-parties-in-data.Rmd).
+[^fullcode]: To keep the post concise and pretty for non-coders, I don't show the code. You can find the code [here](https://github.com/ewenme/site/blob/main/content/posts/2019-08-12-decade-of-berghain-parties-in-data/index.Rmd).

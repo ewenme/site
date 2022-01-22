@@ -7,12 +7,15 @@ tags: ['music', 'r']
 keywords: ["resident advisor", "ra", "podcast", "mix series", "open data"]
 image: "http://www.fazemag.de/wp-content/uploads/2015/12/Bildschirmfoto-2015-12-26-um-21.32.43.png"
 draft: no
+output: 
+  hugodown::md_document:
+    fig_asp: 0.8
 ---
 
 ```{r set-up, include=FALSE}
 knitr::opts_chunk$set(
   cache = FALSE, warning = FALSE, message = FALSE, echo = FALSE, 
-  out.width = '75%', dev = 'png', fig.align = 'center'
+  out.width = "640px"
   )
 
 library(emo)
@@ -61,7 +64,7 @@ Nonetheless, I dug into the RA Podcast data to find out who's appeared in the mo
 
 ra_rankings_tbl <- reactable(
   as.data.frame(top_tracks),
-  defaultPageSize = 20,
+  defaultPageSize = 10,
   defaultSorted = "mix_count",
   defaultColDef = colDef(headerClass = "header", align = "left"),
   columns = list(
@@ -161,4 +164,4 @@ It's a big look for Detroit, then, with the Motor City putting up both #1 (Rober
 blogdown::shortcode("youtube", "yRBJDJx_sjg")
 ```
 
-[^fullcode]: You can find the code behind this post [here](https://github.com/rbind/ewenme/blob/master/content/blog/2019-08-14-ra-podcast-rankings.Rmd).
+[^fullcode]: You can find the code behind this post [here](https://github.com/ewenme/site/blob/main/content/posts/2019-08-14-ra-podcast-rankings/index.Rmd).

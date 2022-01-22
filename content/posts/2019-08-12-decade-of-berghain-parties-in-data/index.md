@@ -11,7 +11,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 0.8
-rmd_hash: ecc0ea8cc872488e
+rmd_hash: 2f6845e3e80c1d42
 ---
 
 [Berghain](http://berghain.de/) is (in)famous for many things. The strict no
@@ -28,7 +28,7 @@ cool parties, sometimes...
 What's also cool is, Berghain's site still hosts their programming history on
 the site. This goes all the way
 [back to 2009](http://berghain.de/events/2009-12) (check Hudson Mohawke
-vs. Rustie on the WARP 20 night - I miss Rustie 😢). Some really neat projects
+vs. Rustie on the WARP 20 night - I miss Rustie 😭). Some really neat projects
 have taken advantage of this public archive, like Artiom Dashinsky's
 [Numbers of Berghain](http://dashinsky.com/berghain-statistics/) piece (which,
 in turn, makes use of
