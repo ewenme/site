@@ -7,10 +7,13 @@ description: An understated (*cough*) project to help folks get hold of tidy foo
 slug: understatr
 image: "/blog/2018-12-10-understatr_files/figure-html/dortmund-plot-1.png"
 draft: no
+output: 
+  hugodown::md_document:
+    fig_asp: 0.8
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(warning = FALSE, message = FALSE, echo = TRUE, dev = c('svg', 'png'), fig.align='center')
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, echo = TRUE)
 ```
 
 [understat](https://understat.com/) is a treasure trove of football statistics and advanced metrics. All of your ~~"old man yells at cloud" conjuring~~ household favourites are here. Democratized access to xG for casuals everywhere, so we can do unholy things like this.
