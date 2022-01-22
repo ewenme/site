@@ -49,7 +49,7 @@ Et voila - the data is now freely available,
 
 Now for a couple of visualisation pieces I've tried out using this dataset. I've
 included some notes on my process/workflow for each[^viz], if you're that way
-inclined. Otherwise, just _~absorb the inspiration~_ 💡
+inclined. Otherwise, just _~absorb the inspiration~_ `r emo::ji("idea")`
 
 I took a look at the value of player buys vs sales for Premier League clubs in
 the 2018/19 window, using a
@@ -88,7 +88,7 @@ following the relationship between these two amounts through time.
 > this was sketched out in R with ggplot2, with some Illustrator annotation
 > fine-tuning.
 
-That's basically it...let me know if you make something 🔥🔥🔥
+That's basically it...let me know if you make something 🔥
 
 [^scrape]:
     For this post I chose to omit lengthy passages on web scraping, as not to
