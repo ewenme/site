@@ -9,11 +9,14 @@ description: 'Visualising relative age effect (RAE) in professional English foot
 keywords: ["football", "relative age effect", "RAE", "data viz"]
 image: "https://raw.githubusercontent.com/rbind/ewenme/master/static/blog/2020-11-08-visualising-relative-age-effect-in-english-football_files/figure-html/rae-chart-1.png"
 draft: no
+output: 
+  hugodown::md_document:
+    fig_asp: 1.2
 ---
 
 ```{r setup, include=FALSE}
 
-knitr::opts_chunk$set(cache=FALSE, echo = FALSE, warning = FALSE, message = FALSE, out.width = '100%')
+knitr::opts_chunk$set(cache=FALSE, echo = FALSE, warning = FALSE, message = FALSE, out.width = "640px")
 
 # load packages
 library(tidyverse)
