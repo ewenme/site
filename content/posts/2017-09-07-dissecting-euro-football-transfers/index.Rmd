@@ -1,17 +1,26 @@
 ---
-title: "Unravelling the European football transfer window"
+title: "unravelling the European football transfer window"
 description: "Scraping data on 2017/18 football transfers and following the money trails."
 date: "2017-09-07"
 tags: ["r", "football", "analytics"]
 keywords: ["web scraping", "r", "football", "transfers"]
 slug: unravelling-euro-football-transfer-window
 draft: no
+output: 
+  hugodown::md_document:
+    fig_asp: 0.8
 ---
 
 ```{r setup, include=FALSE}
 
 # markdown setup
-knitr::opts_chunk$set(cache=FALSE, echo = FALSE, warning = FALSE, message = FALSE, out.width = '100%')
+knitr::opts_chunk$set(
+  echo = FALSE, 
+  warning = FALSE, 
+  message = FALSE, 
+  fig.path = "index_files/",
+  out.width = "640px"
+  )
 
 # load pkgs for session
 library(jsonlite)
@@ -29,11 +38,11 @@ library(igraph)
 
 Followers of European football will be familiar with the infamous transfer window system, which endears clubs to buy and sell players in a specified period - once in the off-season (summer), and once at the turn of each calendar year. This constraint has invited increasingly peculiar and precarious market activity over the years, as clubs vie to secure the hottest new talents with varying parts method and madness. Meanwhile, fans lap up newspaper gossip columns and tell friends "he looks quality on YouTube" as they frantically research the latest "wunderkind"  their club has been linked with. It's a truly beguiling collection of rituals and rhetoric (that I helplessly pander to each year). 
 
-![](/blog/2017-09-07-dissecting-euro-football-transfers_files/regulate.png){width=75%}
+![The market will regulate itself](regulate.png)
 
 The off-season transfer window closed shut recently, on August 31st across Germany, England, France and Italy. Spain got given slightly longer to finish their business, until the 1st September (a bizarre quirk that is befitting of such a madcap period). As a follower of (English) Premier League football, primarily, the way in which media outlets stoke up the tension here as the window draws to a close really has to be seen to be believed. Chief culprits include Sky Sports, who's latest excruciating move in drama marginal gains includes presenters coordinating the colour of their clothes with the canary yellow news ticker on their rolling TV coverage of the window's 'deadline day' (caption competition, indeed).
 
-![](/blog/2017-09-07-dissecting-euro-football-transfers_files/jimwhite.jpg){width=75%}
+![Jim White](jimwhite.jpg)
 
 Behind this cacophony of noise, what actually went down in the window? Hopefully, a proper look at the data can help reveal some truths and help me scratch this particular itch.[^fullcode]
 
