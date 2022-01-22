@@ -11,7 +11,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 0.8
-rmd_hash: 243538cf312b31d3
+rmd_hash: e84d1efca5984797
 ---
 
 [understat](https://understat.com/) is a treasure trove of football statistics

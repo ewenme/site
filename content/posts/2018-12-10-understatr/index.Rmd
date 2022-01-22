@@ -13,7 +13,9 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(warning = FALSE, message = FALSE, echo = TRUE)
+knitr::opts_chunk$set(
+  warning = FALSE, message = FALSE, echo = TRUE, out.width = "640px"
+  )
 ```
 
 [understat](https://understat.com/) is a treasure trove of football statistics and advanced metrics. All of your ~~"old man yells at cloud" conjuring~~ household favourites are here. Democratized access to xG for casuals everywhere, so we can do unholy things like this.

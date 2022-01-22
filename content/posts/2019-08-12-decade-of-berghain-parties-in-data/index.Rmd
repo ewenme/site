@@ -7,12 +7,14 @@ tags: ['music', 'open-data']
 keywords: ["music", "clubs", "berghain", "open-data"]
 image: "/blog/2019-08-12-decade-of-berghain-parties-in-data_files/figure-html/year-avg-lineup-size-1.png"
 draft: no
+output: 
+  hugodown::md_document:
+    fig_asp: 0.8
 ---
 
 ```{r set-up, include=FALSE}
 knitr::opts_chunk$set(
-  cache = FALSE, warning = FALSE, message = FALSE, echo = FALSE, 
-  out.width = '100%', dev = 'png', fig.align = 'center'
+  cache = FALSE, warning = FALSE, message = FALSE, echo = FALSE, out.width = "640px"
   )
 
 library(emo)
