@@ -1,0 +1,33 @@
+---
+title: an allan saint-maximin appreciation post
+date: '2022-02-16'
+tags: ["football"]
+keywords: ["football", "r", "rstats", "newcastle united"]
+description: He dribbles when he wants.
+slug: allan-saint-maximin
+image: ""
+draft: yes
+output: 
+  hugodown::md_document:
+    fig_asp: 0.8
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  warning = FALSE, message = FALSE, echo = TRUE, out.width = "640px"
+  )
+```
+
+For my sins, I am a Newcastle United fan. Watching them play has been hard graft for a decent while.
+
+```{r nufc-xg, out.width="100%"}
+# plot of rolling xG for newcastle
+```
+
+Why bother? Even in the darkest days of Sports Direct FC, there have been glimmers of joy to grab with both hands. Once upon a time, Alan Pardew might have treated us with a Hatem Ben Arfa cameo. Today, we are pacified by the one-man dribbling band that is Allan Saint-Maximin.
+
+```{r dribble-carries, out.width="100%"}
+# plot of dribbles x carries
+```
+
+
