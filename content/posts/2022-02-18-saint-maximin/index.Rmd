@@ -1,20 +1,20 @@
 ---
 title: allan saint-maximin appreciation post
-date: '2022-02-18'
+date: '2022-02-20'
 tags: ["football"]
 keywords: ["football", "r", "rstats", "newcastle united"]
 description: he dribbles when he wants.
 slug: saint-max-appreciation
 image: "https://ewen.io/saint-max-appreciation/asm.jpeg"
-draft: yes
+draft: no
 output: 
   hugodown::md_document:
-    fig_asp: 0.8
+    fig_asp: 1.1
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
-  warning = FALSE, message = FALSE, echo = TRUE, out.width = "640px"
+  warning = FALSE, message = FALSE, echo = FALSE, out.width = "640px"
   )
 
 library(worldfootballR)
@@ -50,7 +50,7 @@ These sport~~wash~~ing revolutions typically involve waves of new players turnin
 
 First, a chart to convey the relative pain that comes with watching the current Newcastle team.
 
-```{r nufc-xg, out.width="100%"}
+```{r nufc-xg, out.width="100%", fig.asp=0.9}
 nufc_xg <- nufc_matches %>%
   clean_names() %>%
   dplyr::filter(
@@ -81,16 +81,16 @@ manager_changes <- tribble(
 
 managers <- tribble(
   ~name, ~gameweek, ~season, ~angle, ~y,
-  "Steve Bruce", 5, "2021-22", 0, 1.5,
-  "Graeme Jones", 10, "2021-22", 90, 1.8,
-  "Eddie Howe", 18, "2021-22", 0, 1.5
+  "Steve Bruce", 1, "2021-22", 0, 1.5,
+  "Graeme Jones", 10, "2021-22", 90, 0.5,
+  "Eddie Howe", 12, "2021-22", 0, 1.5
 )
 
 series_labels <- tibble(
   name = c("xG difference", "goal difference"),
   colour = c(asm_col, highlight_col),
-  gameweek = c(15, 5),
-  y = c(-.25, .25),
+  gameweek = c(12, 2),
+  y = c(.25, 1.5),
   season = "2020-21"
 )
 
@@ -109,18 +109,22 @@ ggplot(
   geom_line(aes(y = xg_diff, colour = "xG difference")) +
   geom_line(aes(y = g_diff, colour = "goal difference")) +
   # add reference lines + text
-  geom_hline(yintercept = 0, linetype = "dashed", colour = unhighlighted_col) +
+  geom_hline(
+    yintercept = 0, linetype = "dashed", colour = unhighlighted_col
+    ) +
   geom_vline(
     aes(xintercept = gameweek), data = manager_changes,
-    linetype = "dashed"
+    linetype = "dashed", colour = unhighlighted_col
     ) +
   geom_text(
     aes(label = name, angle = angle, y = y), data = managers,
-    hjust = 1, family = "iA Writer Quattro S", fontface = "bold"
+    hjust = 0, family = "iA Writer Quattro S", fontface = "bold",
+    size = 3
   ) +
   geom_text(
     aes(label = name, y = y), data = series_labels, hjust = 0,
     family = "iA Writer Quattro S", fontface = "bold",
+    size = 3,
     colour = c(asm_col, highlight_col)
   ) +
   # theme stuff
@@ -140,9 +144,8 @@ ggplot(
   ) +
   theme_pilot(grid = "h", legend_position = "none") +
   theme(
-    plot.title = element_textbox(
-      size = 18, padding = margin(0, 0, 5, 0),
-      hjust = 0
+    plot.title = element_textbox_simple(
+      padding = margin(0, 0, 5, 0), hjust = 0, lineheight = 1
     ),
     plot.title.position = "plot"
   )
@@ -186,7 +189,7 @@ ggplot(
       succ_dribbles_90 > quantile(succ_dribbles_90, 0.95) |
         prog_carries_90 > quantile(prog_carries_90, 0.95)
     ),
-    size = 3.5, family = "iA Writer Quattro S"
+    size = 2.5, family = "iA Writer Quattro S"
   ) +
   scale_color_manual(values = c(highlight_col, asm_col), guide = "none") +
   scale_fill_manual(values = c(highlight_col, asm_col), guide = "none") +
@@ -201,9 +204,9 @@ ggplot(
       @ewen_"
       )
   ) +
-  theme_pilot() +
+  theme_pilot(subtitle_size = 11) +
   theme(
-    plot.title = element_textbox(
+    plot.title = element_textbox_simple(
       size = 18, padding = margin(0, 0, 5, 0),
       hjust = 0
     ),
@@ -214,7 +217,7 @@ ggplot(
 
 Given that Adama has now left the league, if you want to watch a jinking winger there is literally no competition. This is compounded by the fact that he plays for Newcastle, where the next most dribble-happy teammate is a way off. The "second guy" is further away than any other PL team.
 
-```{r top-club-dribblers}
+```{r top-club-dribblers, out.width="100%"}
 pl_possession %>%
   group_by(squad) %>%
   slice_max(att_dribbles_90, n = 2, with_ties = FALSE) %>%
@@ -247,16 +250,15 @@ pl_possession %>%
     ) +
   geom_text(
     aes(label = player, x = att_dribbles_90),
-    hjust = 1, nudge_x = -.1, size = 3.5,
+    hjust = 1, nudge_x = -.2, size = 3,
     family = "iA Writer Quattro S", colour = unhighlighted_col
   ) +
   geom_text(
     aes(label = top_player, x = top_dribbles_90),
-    hjust = 0, nudge_x = .1, size = 3.5,
+    hjust = 0, nudge_x = .2, size = 3,
     family = "iA Writer Quattro S", colour = unhighlighted_col
   ) +
   scale_x_continuous(limits = c(0, 10), expand = c(0, NA)) +
-  theme_pilot(grid = "v") +
   labs(
     title = "Saint-Maximin's dribble attempts dwarf the club's #2 dribbler, Joe Willock",
     subtitle = glue(
@@ -269,12 +271,24 @@ pl_possession %>%
       Source: FBref, {today}
       @ewen_"
     )
+  ) +
+  theme_pilot(grid = "v", subtitle_size = 11) +
+  theme(
+    plot.title = element_textbox_simple(
+      size = 18, padding = margin(0, 0, 5, 0),
+      hjust = 0
+    ),
+    plot.subtitle = element_textbox_simple(
+      size = 11, padding = margin(0, 0, 5, 0)
+    ),
+    plot.title.position = "plot"
   )
+  
 ```
 
-How does he do it? Well, it turns out that Allan doesn't really do much of anything out of possession. There's only one fella that pressures the opposition less.
+How does he do it? Well, it turns out that Allan doesn't really do much of anything out of possession. There's only one fella that pressures the opposition less (guess who).
 
-```{r pressures}
+```{r pressures, out.width="100%"}
 pl_def <- big5_def %>%
   clean_names() %>%
   dplyr::filter(
@@ -311,7 +325,7 @@ ggplot(
       ) | squad == "Newcastle Utd"
     ),
     box.padding = 0.5, colour = highlight_col,
-    family = "iA Writer Quattro S"
+    family = "iA Writer Quattro S", size = 2.5
   ) +
   scale_color_manual(values = c(highlight_col, asm_col), guide = "none") +
   scale_fill_manual(values = c(highlight_col, asm_col), guide = "none") +
@@ -323,14 +337,14 @@ ggplot(
     x = "tackles per 90",
     y = "pressures per 90",
     caption = glue(
-      "Players with at least 900 minutes played.
+      "Midfielders/Forwards with at least 900 minutes played.
       Source: FBref, {today}
       @ewen_"
     )
   ) +
-  theme_pilot() +
+  theme_pilot(subtitle_size = 11) +
   theme(
-    plot.title = element_textbox(
+    plot.title = element_textbox_simple(
       size = 18, padding = margin(0, 0, 5, 0),
       hjust = 0
     ),
