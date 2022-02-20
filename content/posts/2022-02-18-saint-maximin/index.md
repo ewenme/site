@@ -11,7 +11,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 1.1
-rmd_hash: e6290fd3d7a87e03
+rmd_hash: d2bf301d238482ce
 ---
 
 For my sins, I am a Newcastle United fan. Watching them play has been hard graft
@@ -22,7 +22,7 @@ Tyneside, with a helping of geopolitical pessimism, now that
 [the club is owned by Saudi Arabia](https://www.bbc.co.uk/sport/football/58826899)
 (for what it's worth, the previous owner Mike Ashley, has been
 [regularly accused of paying staff below minimum wage](https://www.theguardian.com/business/2020/jul/23/sports-direct-undercover-minimum-wage-mike-ashley),
-so the human rights bar is already pretty low). These sport~~wash~~ing
+so the human rights bar is already unspeakably low). These sport~~wash~~ing
 revolutions typically involve waves of new players turning up to appease the new
 regime and expectations, inevitably taking places off of (mostly) technically
 limited members of the squad first. Longer term, the gentrification tends to be
