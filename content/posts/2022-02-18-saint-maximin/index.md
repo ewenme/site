@@ -6,12 +6,12 @@ keywords: ['football', 'r', 'rstats', 'newcastle united']
 description: he dribbles when he wants.
 slug: saint-max-appreciation
 images:
-  - 'https://ewen.io/saint-max-appreciation/featured.jpeg'
+  - 'https://github.com/ewenme/site/blob/main/content/posts/2022-02-18-saint-maximin/figs/featured.jpeg?raw=true'
 draft: no
 output:
   hugodown::md_document:
     fig_asp: 1.1
-rmd_hash: 0e2b9a813b6de4c1
+rmd_hash: a55623ee4be123ea
 ---
 
 For my sins, I am a Newcastle United fan. Watching them play has been hard graft
