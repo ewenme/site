@@ -150,7 +150,7 @@ ggplot(
   )
 ```
 
-Not only has the xG difference (i.e. the no. of goals Newcastle should have scored, given the quality of chances created, minus the no. of goals their opposition should have scored) been mostly below zero for two consecutive seasons, the actual goal difference has mostly lagged behind this as well. This is characteristic of a low-quality team and upsetting viewing.
+Not only has the xG difference (i.e. the no. of goals Newcastle should have scored, given the quality of chances created, minus the no. of goals their opposition should have scored) been mostly below zero for two consecutive seasons, the actual goal difference has mostly lagged behind this as well. This is characteristic of a low-quality team and upsetting viewing (although it looks like Howe *might* be moving the team towards average, as of late).
 
 So, why bother? Well, even in the darkest days of Sports Direct FC, there have been glimmers of uninhibited joy to grab with both hands. Once upon a time, Alan Pardew might have [treated the punters/streets to a Hatem Ben Arfa cameo](https://www.youtube.com/watch?v=t4Md-P6LPPk). Today, we are pacified by the heir to Hatem's one-man-dribbling-band-throne that is Allan Saint-Maximin. Here's a ridiculous scatter chart to help explain the levels.
 

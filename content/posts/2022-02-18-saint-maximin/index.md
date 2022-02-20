@@ -11,7 +11,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 1.1
-rmd_hash: d2bf301d238482ce
+rmd_hash: 638fa0811a86cbcd
 ---
 
 For my sins, I am a Newcastle United fan. Watching them play has been hard graft
@@ -43,7 +43,8 @@ Not only has the xG difference (i.e. the no. of goals Newcastle should have
 scored, given the quality of chances created, minus the no. of goals their
 opposition should have scored) been mostly below zero for two consecutive
 seasons, the actual goal difference has mostly lagged behind this as well. This
-is characteristic of a low-quality team and upsetting viewing.
+is characteristic of a low-quality team and upsetting viewing (although it looks
+like Howe _might_ be moving the team towards average, as of late).
 
 So, why bother? Well, even in the darkest days of Sports Direct FC, there have
 been glimmers of uninhibited joy to grab with both hands. Once upon a time, Alan
