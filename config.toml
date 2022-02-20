@@ -22,7 +22,7 @@ angledQuotes = false
 timeFormatRFC3339 = "2006-01-02T15:04:05Z07:00"
 timeFormatDefault = "January 2, 2006"
 timeFormatShort = "Jan 02, 2006"
-description = "a"
+description = "an infrequent blog about whatever is going on with me."
 
 [params.author]
 name = "ewen"

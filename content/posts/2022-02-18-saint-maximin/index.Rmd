@@ -5,7 +5,8 @@ tags: ["football"]
 keywords: ["football", "r", "rstats", "newcastle united"]
 description: he dribbles when he wants.
 slug: saint-max-appreciation
-image: "https://ewen.io/saint-max-appreciation/asm.jpeg"
+images: 
+  - "https://ewen.io/saint-max-appreciation/featured.jpeg"
 draft: no
 output: 
   hugodown::md_document:
