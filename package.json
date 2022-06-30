@@ -27,7 +27,7 @@
     "hugo-bin": "^0.86.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.4.1",
-    "postcss-cli": "^9.1.0",
+    "postcss-cli": "^10.0.0",
     "postcss-color-function": "^4.1.0",
     "postcss-import": "^14.1.0",
     "postcss-mixins": "^9.0.2",
