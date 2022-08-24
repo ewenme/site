@@ -44,7 +44,7 @@ url = "/privacy"
 [[menu.footer]]
 name = "RSS"
 weight = 3
-url = "/posts/index.xml"
+url = "/index.xml"
 
 [[menu.footer]]
 name = "email"
