@@ -17,17 +17,17 @@ Think
 rubbing shoulders with
 [Battle For Middle You](https://www.youtube.com/watch?v=aLqWjUWGYFA&ab_channel=TedHartkamp).
 Spoof pirate radio adverts lovingly made by pals are weaved in and the mic chat
-comes like a UK rave youtube comments stream of consciousness. It's memorable
-because so much of radio, even the hobbyist/"underground" variety, defaults to a
-serious and professional tone. End-of-year list culture is obviously ripe for a
-bashing, as well.
+comes like a [UK Rave Comments](<(https://twitter.com/ukravecomments?lang=en)>)
+style stream of consciousness. It's memorable because so much of radio, even the
+hobbyist/"underground" variety, defaults to a serious and professional tone.
+End-of-year list culture is obviously ripe for a bashing, as well.
 
 There was a
 [Mixmag article a few years back about "silly music"](https://mixmag.net/feature/silly-music-anti-establishment-artists-reclaiming-dance-music-funny-side).
 It mainly covers the Bangface genre of comedy (i.e. flute drops, ironic
 costumes) and ponders on the difference between Grimes and Young Marco dropping
-a trance banger. It does briefly touches on historical examples of comedy in UK
-dance music in the intro (e.g. Hardcore Rhythm Team’s
+a trance banger. It briefly touches on historical examples of comedy in UK dance
+music in the intro (e.g. Hardcore Rhythm Team’s
 ‘[Ragga Clash](https://www.youtube.com/watch?v=um9aitZBH3s)’), but nothing
 substantial.
 
@@ -86,11 +86,6 @@ the course of years. It's basically the UK's answer to Nathan Fielder.
 
 {{< tweet user="hurfyd" id="1115269570988781568" >}}
 
-While not so much shitposting, it feels relevant to mention the seminal, and
-recently revived,
-[UK Rave Comments twitter account](https://twitter.com/ukravecomments?lang=en).
-Nostalgic, tongue-in-cheek rave content delivered daily.
-
 Funnily enough, Works of Intent themselves poked fun at Resident Advisor's
 "Breaking Through" feature with
 [a self-hosted, bang on the nose parody version](https://worksofintent.com/breaking/).
@@ -99,6 +94,13 @@ Funnily enough, Works of Intent themselves poked fun at Resident Advisor's
 > elaborating on a variety of future plans, audio experiences, website projects
 > and niche event ideas. The picture I formed was of a restless and creative
 > mind whose abilities only expanded as his cast of enablers grew.
+
+This feels like the right place to mention a short-lived but cult favourite
+youtube channel, _partyrockersish_. The premise is simple: create mash-ups of
+"underground" anthems with LMFAO's Party Rock Anthem. Here's a percy over
+Andres - New For U...
+
+{{< youtube LgWiLKu1bFs >}}
 
 ### The mainstream satire
 
