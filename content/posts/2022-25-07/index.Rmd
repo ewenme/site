@@ -1,0 +1,103 @@
+---
+title: untitled
+date: '2022-07-25'
+tags: ["techno"]
+keywords: ["berghain", "techno", "rstats", "music"]
+description: ...
+slug: untitled
+images: 
+  - "https://github.com/ewenme/site/blob/main/content/posts/2022-02-18-saint-maximin/figs/featured.jpeg?raw=true"
+draft: yes
+output: 
+  hugodown::md_document:
+    fig_asp: 1.1
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  warning = FALSE, message = FALSE, echo = FALSE, out.width = "640px"
+  )
+
+library(tidyverse)
+library(lubridate)
+library(forcats)
+library(slider)
+library(glue)
+library(janitor)
+library(gghighlight)
+library(ggrepel)
+library(pilot)
+library(ggtext)
+
+set_pilot_family("iA Writer Quattro S")
+
+# get data
+events <- read_csv(
+  "https://raw.githubusercontent.com/ewenme/berghain/master/data/events.csv"
+  )
+lineups <- read_csv(
+  "https://raw.githubusercontent.com/ewenme/berghain/master/data/lineups.csv"
+  )
+
+#
+lineups_extra <- left_join(
+  lineups, events, by = "event_id"
+  )
+
+```
+
+How long is the sesh?
+
+```{r event-duration}
+
+events_duration <- lineups_extra %>% 
+  dplyr::filter(!is.na(set_time_start)) %>% 
+  group_by(event_id, event_name, event_url) %>% 
+  summarise(
+    event_duration = difftime(
+      max(set_time_end), min(set_time_start), units = "hours"
+      )
+    ) %>% 
+  arrange(desc(event_duration)) %>% 
+  dplyr::filter(event_duration > 0)
+
+ggplot(events_duration, aes(event_duration)) +
+  geom_histogram(binwidth = 4)
+```
+
+How often do DJs play at Berghain?
+
+```{r}
+dj_apps_summary <- lineups_extra %>% 
+  mutate(artist_name_lower = str_to_lower(artist_name)) %>% 
+  group_by(artist_name_lower) %>% 
+  summarise(
+    n_sets = n(),
+    n_events = n_distinct(event_id),
+    first_app = min(event_date),
+    last_app = max(event_date)
+    )
+
+ggplot(dj_apps_summary, aes(n_events)) +
+  geom_histogram()
+```
+
+```{r}
+
+lineups_extra %>% 
+  mutate(artist_name_lower = str_to_lower(artist_name)) %>%
+  distinct(artist_name_lower, event_id, event_date) %>% 
+  arrange(artist_name_lower, event_date) %>% 
+  mutate(count = 1) %>% 
+  group_by(artist_name_lower) %>% 
+  mutate(
+    cum_apps = cumsum(count), 
+    first_app_date = min(event_date),
+    first_app_year = year(first_app_date),
+    days_since_first_app = difftime(event_date, first_app_date, units = "days")
+    ) %>%
+  ggplot(aes(days_since_first_app, cum_apps, group = artist_name_lower)) +
+  geom_step() +
+  facet_wrap(~ first_app_year, scales = "free")
+
+```

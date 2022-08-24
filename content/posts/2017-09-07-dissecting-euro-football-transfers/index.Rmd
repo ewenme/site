@@ -49,10 +49,6 @@ Behind this cacophony of noise, what actually went down in the window? Hopefully
 
 In early skirmishes with transfer window data, I had managed to scrape [Transfermarkt's](https://www.transfermarkt.co.uk/) site for player transfer data and produced some neat dumbbell-style plots that people seemed to get on with.
 
-```{r echo=FALSE}
-blogdown::shortcode('tweet', '895930106908221440')
-```
-
 These nicely illustrated intra-league transfer window behaviour, highlighting big buyers and sellers (as well as club's balances) relative to the league itself. One feature that may go unnoticed is the ranking of the y-axis - the clubs have been ordered by their final league position in the previous season (with the promoted clubs at the bottom). This decision means that clubs are proximal to others who demonstrated similar league performance (a reasonable proxy for team quality), and spend information can be compared non-arbitrarily in this way.
 
 However, there wasn't any kind of time-stamp present in Transfermarkt's collation of transfer data, which was a dimension I wanted to explore. I would have to try my luck elsewhere.

@@ -10,7 +10,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 0.8
-rmd_hash: f63b96a888fa2197
+rmd_hash: 54ae2e08a13f3c22
 ---
 
 Followers of European football will be familiar with the infamous transfer
@@ -49,12 +49,6 @@ In early skirmishes with transfer window data, I had managed to scrape
 [Transfermarkt's](https://www.transfermarkt.co.uk/) site for player transfer
 data and produced some neat dumbbell-style plots that people seemed to get on
 with.
-
-<div class="highlight">
-
-{{% tweet "895930106908221440" %}}
-
-</div>
 
 These nicely illustrated intra-league transfer window behaviour, highlighting
 big buyers and sellers (as well as club's balances) relative to the league

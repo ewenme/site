@@ -13,7 +13,7 @@ draft: no
 output:
   hugodown::md_document:
     fig_asp: 1.2
-rmd_hash: d89e8cd6e6fc29d9
+rmd_hash: 5615f897109481a5
 ---
 
 Relative Age Effect (RAE) describes a phenomenon where a child who is born in
@@ -40,19 +40,13 @@ book, Gladwell stumbles across the case of elite Canadian hockey players, in
 which 40% of players were found to have been born in January, February, or March
 (with the cut-off for age competition in hockey at the start of the calendar
 year). I was curious about the incidence of this effect in English football a
-couple of years ago, and discovered something pretty similar:
+couple of years ago, and discovered something pretty similar.
 
-<div class="highlight">
-
-{{% tweet "972426014738518016" %}}
-
-</div>
-
-This post got quite a lot of attention, which I think speaks to the fact that
-its quite a relatable story -- everyone has a birthday, and many dreamed of
-making it as a pro. However, the visualisation itself hasn't aged well (which
-I'll leave for a future post). So, I thought I'd give this one a "remaster" of
-sorts:
+[This post got quite a lot of attention](https://www.reddit.com/r/dataisbeautiful/comments/83ejdw/relative_age_effect_in_english_footballers_your/),
+which I think speaks to the fact that its quite a relatable story -- everyone
+has a birthday, and many dreamed of making it as a pro. However, the
+visualisation itself hasn't aged well (which I'll leave for a future post). So,
+I thought I'd give this one a "remaster" of sorts:
 
 <div class="highlight">
 
