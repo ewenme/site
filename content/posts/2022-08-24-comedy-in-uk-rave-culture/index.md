@@ -31,7 +31,7 @@ dance music in the intro (e.g. Hardcore Rhythm Team’s
 ‘[Ragga Clash](https://www.youtube.com/watch?v=um9aitZBH3s)’), but nothing
 substantial.
 
-There's probably a throughline jere that a talented writer could make a
+There's probably a throughline here that a talented writer could make a
 compelling story out of. For now, I've tried to round up some genres of comedy
 to do with UK rave culture that I can remember.
 
