@@ -124,7 +124,8 @@ I'd put it in the same boat as a show like Only Fools and Horses.
 
 ### The up middle finger
 
-I wouldn't strictly classify it as comedy, but the online footprint of
+I wouldn't strictly classify it as comedy (or rave, even), but the online
+footprint of
 [Hype Williams'](https://www.discogs.com/artist/1874027-Hype-Williams-2) is
 jokes. It's actually tapped even writing more words about it. Basically, Dean
 Blunt and Inga Copeland are the only known members of a long-running project
