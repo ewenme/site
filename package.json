@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/ewenme/site#readme",
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.2",
+    "@tailwindcss/typography": "^0.5.4",
     "cross-env": "^7.0.3",
     "cssnano": "^5.1.7",
     "hugo-bin": "^0.86.0",
-    "husky": "^7.0.4",
+    "husky": "^8.0.1",
     "lint-staged": "^12.4.1",
     "postcss-cli": "^9.1.0",
     "postcss-color-function": "^4.1.0",
