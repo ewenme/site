@@ -21,26 +21,26 @@
   },
   "homepage": "https://github.com/ewenme/site#readme",
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.2",
+    "@tailwindcss/typography": "^0.5.4",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.1.7",
-    "hugo-bin": "^0.86.0",
-    "husky": "^7.0.4",
-    "lint-staged": "^12.4.1",
-    "postcss-cli": "^9.1.0",
+    "cssnano": "^5.1.13",
+    "hugo-bin": "^0.89.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "postcss-cli": "^10.0.0",
     "postcss-color-function": "^4.1.0",
     "postcss-import": "^14.1.0",
-    "postcss-mixins": "^9.0.2",
+    "postcss-mixins": "^9.0.3",
     "postcss-nested": "^5.0.6",
-    "postcss-preset-env": "^7.4.4",
+    "postcss-preset-env": "^7.8.0",
     "postcss-simple-vars": "^6.0.3",
-    "prettier": "^2.6.2",
-    "prettier-plugin-go-template": "0.0.12",
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "0.0.13",
     "prettier-plugin-toml": "0.3.1",
-    "tailwindcss": "^3.0.24"
+    "tailwindcss": "^3.1.8"
   },
   "dependencies": {
-    "instant.page": "^5.1.0"
+    "instant.page": "^5.1.1"
   },
   "lint-staged": {
     "*.{js,css,md,toml}": "prettier --write"
