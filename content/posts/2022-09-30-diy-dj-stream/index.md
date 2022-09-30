@@ -1,5 +1,5 @@
 ---
-title: 'homemade radio, a field guide'
+title: 'homemade radio: a field guide'
 description: 'how to do all the boring bits behind a DIY online radio show.'
 date: 2022-09-30
 draft: false
@@ -40,7 +40,7 @@ honest, Mixcloud Live makes a lot of sense if you are already using Mixcloud in
 general and have a following there. It's also on firmer legal grounds for DJs
 playing other people's tunes than generalist streaming platforms like Twitch
 where you should expect to get takedown notices before too long. Also, be aware
-that the platform itself isn't that appealling to people that are casual
+that the platform itself isn't that appealing to people that are casual
 music/radio listeners and don't already have a Mixcloud account.
 
 ### Twitch
@@ -117,7 +117,7 @@ stations often use for consistent branding. Therefore, getting used to working
 with Photopea and PSD files will come in handy if you end up with a show on a
 station later.
 
-Alternatively, you could try your hand at making your own illustations from
+Alternatively, you could try your hand at making your own illustrations from
 scratch. There's obviously the pen-and-paper route, or you can try popular
 digital illustration apps like [Procreate](https://procreate.art/) (iOS only).
 
@@ -134,12 +134,11 @@ optional thing that can come later.
 
 ### Storage
 
-You'll need somewhere to back-up the files you're creating as byproducts of the
-show. These include image (e.g. artwork, logos, photoshop templates), audio
-(e.g. show recordings), video (e.g. show clips) and text (e.g. tracklists)
-files. Ideally, you should get into the habit of backing up these files
-consistently as early as possible. It's not fun doing it in bulk or worse,
-losing high-quality recordings completely.
+You'll need somewhere to back-up the files you're creating. These include image
+(e.g. artwork, logos, photoshop templates), audio (e.g. show recordings), video
+(e.g. show clips) and text (e.g. tracklists) files. Ideally, you should get into
+the habit of backing up these files consistently as early as possible. It's not
+fun doing it in bulk or worse, losing high-quality recordings completely.
 
 We use a fairly obvious option,
 [Google Drive](https://www.google.co.uk/intl/en-GB/drive/). We made a new
