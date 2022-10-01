@@ -2,6 +2,11 @@
 title: about
 ---
 
-I’m a developer and data scientist by trade living in South London, from Essex.
-I'm also a hobbyist DJ and co-host of [cloud696](https://www.cloud696.club/).
-Have a nice day !
+I’m Ewen, living in South London by way of Essex (UK). I earn a living as a
+developer + data scientist. I also DJ as part of
+[cloud696](https://www.cloud696.club/).
+
+This site is sometimes a blog and other times it's a diary. It doesn't use any
+trackers.
+
+Have a nice day mate !
