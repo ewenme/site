@@ -51,32 +51,32 @@ module.exports = {
             h1: {
               color: theme('colors.headings'),
               fontSize: theme('fontSize.2xl'),
-              fontWeight: theme('fontWeight.medium'),
+              fontWeight: theme('fontWeight.bold'),
             },
             h2: {
               color: theme('colors.headings'),
               fontSize: theme('fontSize.xl'),
-              fontWeight: theme('fontWeight.medium'),
+              fontWeight: theme('fontWeight.bold'),
             },
             h3: {
               color: theme('colors.headings'),
               fontSize: theme('fontSize.lg'),
-              fontWeight: theme('fontWeight.medium'),
+              fontWeight: theme('fontWeight.bold'),
             },
             h4: {
               color: theme('colors.headings'),
               fontSize: theme('fontSize.base'),
-              fontWeight: theme('fontWeight.medium'),
+              fontWeight: theme('fontWeight.bold'),
             },
             h5: {
               color: theme('colors.headings'),
               fontSize: theme('fontSize.sm'),
-              fontWeight: theme('fontWeight.medium'),
+              fontWeight: theme('fontWeight.bold'),
             },
             h6: {
               color: theme('colors.headings'),
               fontSize: theme('fontSize.sm'),
-              fontWeight: theme('fontWeight.medium'),
+              fontWeight: theme('fontWeight.bold'),
             },
             'ul > li::before': {
               content: '""',
