@@ -85,7 +85,7 @@ module.exports = {
               borderRadius: '50%',
             },
             a: {
-              borderBottom: `1px dotted ${theme('colors.grey.darker')}`,
+              borderBottom: `1px dotted ${theme('colors.primary')}`,
               color: theme('colors.current'),
               fontWeight: theme('fontWeight.medium'),
               textDecoration: 'none',

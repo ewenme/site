@@ -6,9 +6,9 @@
   --font-mono: 'Menlo', 'Consolas', 'Monaco', 'Liberation Mono',
     'Lucida Console', 'monospace';
 
-  --colors-primary: #0040dd;
-  --colors-primary-light: color(#0040dd l(90%));
-  --colors-primary-lightest: color(#0040dd l(95%));
+  --colors-primary: #5840bc;
+  --colors-primary-light: color(#5840bc l(90%));
+  --colors-primary-lightest: color(#5840bc l(95%));
   --colors-secondary: #fac24f;
   --colors-tertiary: #d70015;
   --colors-quaternary: #a05a00;
@@ -38,9 +38,9 @@
   --colors-white: #000;
   --colors-black: #fff;
 
-  --colors-primary: #409cff;
-  --colors-primary-light: color(#409cff a(25%));
-  --colors-primary-lightest: color(#409cff a(10%));
+  --colors-primary: #5840bc;
+  --colors-primary-light: color(#5840bc a(25%));
+  --colors-primary-lightest: color(#5840bc a(10%));
   --colors-secondary: #ffd426;
   --colors-tertiary: #ff6961;
   --colors-quaternary: #ffd426;
