@@ -79,12 +79,11 @@ had the following to say about this in an old RA feature:
 I couldn't write this and not talk about the A1 dance music shitposter (sort
 of), hurfyd. While they run
 [a non-ironic, admirable YouTube channel](https://www.youtube.com/channel/UCzeR0_RWnpNHe6y4DTLwE5Q),
-the rest of their online presence is mostly dedicated to delicious Joy Orbison
-content. As a Joy stan I feel incredibly seen with this sort of thing. It's
-crucial to note that this is a persona that they've painstakingly crafted over
-the course of years. It's basically the UK's answer to Nathan Fielder.
-
-{{< tweet user="hurfyd" id="1115269570988781568" >}}
+the rest of their online presence is mostly dedicated to
+[delicious Joy Orbison content](https://twitter.com/hurfyd/status/1115269570988781568).
+As a Joy stan I feel incredibly seen with this sort of thing. It's crucial to
+note that this is a persona that they've painstakingly crafted over the course
+of years. It's basically the UK's answer to Nathan Fielder.
 
 Funnily enough, Works of Intent themselves poked fun at Resident Advisor's
 "Breaking Through" feature with
