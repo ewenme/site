@@ -6,8 +6,6 @@ draft: false
 tags: ['music']
 ---
 
-![illustration]()
-
 I've been broadcasting a homemade radio show with my mate for nearly a year now.
 You should check us, still going strong every last Thursday of the month. On
 reflection, we've got into a good rhythm of putting out quality shows and a year
