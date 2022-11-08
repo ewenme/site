@@ -6,7 +6,7 @@ date: 2022-11-08
 draft: false
 tags: ['video-games']
 images:
-  - https://ewen.io/deathloop/juliana-deathloop-fits.jpeg
+  - https://ewen.io/on-deathloop/juliana-deathloop-fits.jpeg
 ---
 
 ![Concept art of Juliana's Deathloop fits](juliana-deathloop-fits.jpeg)
