@@ -86,3 +86,7 @@ autoHeadingIDType = "github"
 hardWraps = false
 unsafe = true
 xHTML = false
+
+[Social]
+instagram = "cloudsixninesix"
+twitter = "ewen_"
