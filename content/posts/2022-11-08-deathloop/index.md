@@ -1,6 +1,7 @@
 ---
-title: 'deathloop'
-description: "my thoughts about Arkane Studios' Deathloop"
+title: 'on deathloop'
+description:
+  "a short meditation on how Arkane Studios' Deathloop isn't quite hitting."
 date: 2022-11-08
 draft: false
 tags: ['video-games']
@@ -89,4 +90,4 @@ the average player closer to the experience of actually making the game in ways
 that seem brave and interesting. By the end, if someone was watching me play I
 reckon they would think I was pretty good at the game. Unfortunately, I don't
 think the work is imbued with much meaning beyond this. If you're asking, I
-would probably tell you to watch _Russian Doll_ instead.
+would probably tell you to watch _Russian Doll_ or play _Majora's Mask_ instead.
