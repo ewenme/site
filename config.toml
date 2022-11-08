@@ -23,12 +23,13 @@ timeFormatRFC3339 = "2006-01-02T15:04:05Z07:00"
 timeFormatDefault = "January 2, 2006"
 timeFormatShort = "Jan 02, 2006"
 description = "you alright, mate?"
+images = "/gudetama.jpeg"
 
 [params.author]
 name = "ewen"
 homepage = "https://ewen.io"
+twitterHandle = "ewen_"
 
-# twitterHandle = "ewen_"
 [menu]
 
 [[menu.main]]
@@ -86,7 +87,3 @@ autoHeadingIDType = "github"
 hardWraps = false
 unsafe = true
 xHTML = false
-
-[Social]
-instagram = "cloudsixninesix"
-twitter = "ewen_"
