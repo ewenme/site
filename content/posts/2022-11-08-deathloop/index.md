@@ -85,7 +85,7 @@ game demands that you endure a slice of this experience.
 
 ![The moon in Majora's Mask](majora-moon.png)
 
-Deathloop has flaws that mean I walk away it with confused feelings. It forces
+Deathloop has flaws that mean I walk away from it with some confused feelings. It forces
 the average player closer to the experience of actually making the game in ways
 that seem brave and interesting. By the end, if someone was watching me play I
 reckon they would think I was pretty good at the game. Unfortunately, I don't
