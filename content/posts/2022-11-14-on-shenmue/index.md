@@ -109,8 +109,6 @@ makes me wonder if these are design choices are simply the rough edges of a
 pioneering foray into environmental storytelling and a world that feels lived
 in.
 
-You control R
-
 I haven't really talked about the story because it's pretty shit tbh. Your
 in-game dad is killed by Lan Di and you are out for revenge, basically. However,
 towards the end of the mainline story you end up working down at the warehouse
@@ -141,3 +139,11 @@ move in game. The charm is still off the scale, though, and it's hard to
 overstate just how much ground was being broken by this creation. A lot of the
 imaginative heavy lifting for future open-world games was done right here and I
 think it had a profound impact on me. Nice one, dad <3
+
+## Footnotes
+
+- [Dreamcast: A Forensic Retrospective](https://www.eurogamer.net/dreamcast-a-forensic-retrospective-article)
+- [A postcard from Yokosuka: Retracing the steps of the original Shenmue](https://www.eurogamer.net/shenmue-retrospective)
+- [phantomriverstone.com](https://www.phantomriverstone.com/)
+- [Shenmue livestream with Heather Alexandra and Tim Rogers](https://www.youtube.com/watch?v=fcx-EF0fgNk)
+-
