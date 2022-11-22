@@ -12,29 +12,28 @@ images:
 
 At my big age, being a one-time Dreamcast kid feels almost too achingly hipster
 to believe. No word of a lie, I haven't met anyone else who went home to that
-silly, loveable (and surprisingly lightweight) cube. As a cultural artefact it
-perfectly embodies the pre-millenium optimism that every early 90s baby
+silly, lovable (and surprisingly lightweight) cube. As a cultural artifact it
+perfectly embodies the pre-millennium optimism that every early 90s baby
 remembers being in the air those times. In the same vein as
 [9 PM (Till I Come)](https://www.youtube.com/watch?v=5A9OIIapSko&ab_channel=85KasiaD85)
 and New Labour, these relics formed a giddy tapestry of utopian possible
 futures. Sega really went and launched a console with internet capabilities in
 1998, a time when most of us had to convince mum to unplug the phone so we could
 get half hour
-onc[MSN messenger](https://www.youtube.com/watch?v=9pzpQrmzFKw&ab_channel=james19892),
+on[MSN messenger](https://www.youtube.com/watch?v=9pzpQrmzFKw&ab_channel=james19892),
 along with
 ac[controller that housed a virtual pet](https://www.youtube.com/watch?v=GCnJDmrit9U&ab_channel=videogameclipcollect)
-inside it. The Dreamcast was the byproduct of an idyllic, often hubristic time
-of
+inside it. The Dreamcast was the byproduct of an idyllic, hubris-heavy time of
 [Things Can Only Get Better](https://www.youtube.com/watch?v=gi5j7jjhm4M&ab_channel=GreatBritishPolitics)
 type vibes.
 
-My whirwhind Dreamcast romance feels oddly personal, because it lived in my
+My whirlwind Dreamcast romance feels oddly personal, because it lived in my
 dad's house. I didn't have any friends where my dad lived, so when I played it I
 was almost always on my ones. I had never owned previous-gen Sega consoles, so
 my reference points were limited to the odd turn of Sonic or Aladdin after
 school at mate's houses. The fact that so much of it's functionality was beyond
 my own (and my dad's) comprehension gave it a mystical appeal, like a
-premonition of the wonders the new millenium was to bring. Because I didn't get
+premonition of the wonders the new millennium was to bring. Because I didn't get
 to play it much, I tended to rent out games (maybe the most accurate prelude to
 the future we ended up with - rentier capitalism) for a night or two. The
 time-boxed nature of the video game rental lent itself to intense, transfixed
@@ -59,7 +58,7 @@ GTA IV, but if I brought up Shenmue in the same rooms there would usually be
 crickets. Unfortunately, groundbreaking technical feats like this are really
 difficult to appreciate later ("you had to be there", basically). If you show
 someone Blade Runner today, they will probably enjoy the film but think that the
-special effects are goofy. When I first trapsed around Shenmue's streets and
+special effects are goofy. When I first traipsed around Shenmue's streets and
 realised I could go into the arcade to play other Yu Suzuki games, or phone
 someone up (with tinny voice acting, not Simlish or whatever), or collect toys
 from gacha machines, something felt different. This was a level of immersion and
@@ -75,19 +74,19 @@ alarm clock goes off each morning, then you get on with your day as you please.
 You carry around a notebook that tracks progress through the main story, but for
 most of the game you can engage with the critical path pretty loosely. As you
 familiarise yourself within neighbourhoods of Shenmue, not only do you begin to
-see familiar faces, you learn their routines. <insert story>. When you're not
-badgering citizens with scatter-brained detective work, you ask them normal
-things like "how's business", and they might observe that you "always look so
-healthy". Despite Ryo being an awkward, generally pre-occupied soul, it's hard
-not to feel warmth and comfort from these reliably dumb interactions (apart from
-when people are walking around - they will fob you off with unsettling
-regularity). These characters live somewhere in the neighbourhood and you can
-actually go and find their homes (in a non-creepy way) because their names are
-written on the post boxes. There's a US military base right next to Yokosuka IRL
-so many of the in-game shops sell military surplus and the like. You can find
-mementos around the Hazuki family home like family photos and playable cassette
-tapes. These are touches that aren't even a given in open-world games today.
-Back then, this stuff made my 10 year-old mind go bananas.
+see familiar faces, you learn their routines. When you're not badgering citizens
+with scatter-brained detective work, you ask them normal things like "how's
+business", and they might observe that you "always look so healthy". Despite Ryo
+being an awkward, generally pre-occupied soul, it's hard not to feel warmth and
+comfort from these reliably dumb interactions (apart from when people are
+walking around - they will fob you off with unsettling regularity). These
+characters live somewhere in the neighbourhood and you can actually go and find
+their homes (in a non-creepy way) because their names are written on the post
+boxes. There's a US military base right next to Yokosuka IRL so many of the
+in-game shops sell military surplus and the like. You can find mementos around
+the Hazuki family home like family photos and playable cassette tapes. These are
+touches that aren't even a given in open-world games today. Back then, this
+stuff made my 10 year-old mind go bananas.
 
 ![The Hazuki kitchen table](Shenmue_20221112115904.jpg)
 
@@ -104,7 +103,7 @@ transplanted into the game, yet there actually isn't that much active fighting.
 The decision to incorporate QTEs that replace potential fighting opportunities
 contributes to the slower pace of the game that can feel jarring 20 years on.
 Imagine The Last Of Us making you sit and wait for half of an in-game day while
-you wait for the only storyline task to progress. Shenmue does this a lot and
+you wait for the only story-line task to progress. Shenmue does this a lot and
 makes me wonder if these are design choices are simply the rough edges of a
 pioneering foray into environmental storytelling and a world that feels lived
 in.
@@ -124,7 +123,7 @@ you're asking yourself "why?" at this point, perhaps AAA seriousness has led you
 to miss the point of great video games - they are GAMES. Shenmue uses dev
 trickery and production techniques to imitate aspects of cinema, but it doesn't
 pretend for a second that it isn't a video game. This creates charming set
-pieces and encourages playfullness (you are the "player", not the "audience"!).
+pieces and encourages playfulness (you are the "player", not the "audience"!).
 I'm still here for all of it.
 
 ![Ryo in a forklift truck race with his co-workers](Shenmue_20221118123623.jpg)
@@ -133,7 +132,7 @@ This game remains painfully of it's time, good and bad. It's innovations
 probably won't be fully appreciated by newcomers who've already played modern
 AAA open-worlders like Red Dead Redemption II, through no fault of their own.
 The writing is frequently hilarious in a bad (but sort of good) way. The
-controls are comedically janky, to the point where I wondered if the forklift
+controls are comically janky, to the point where I wondered if the forklift
 section of the game inspired how Ryo should move in game. It's charm is still
 off the scale, though, and so much of the imaginative heavy lifting for future
 open-world games was done right here. This is "slow" art that doesn't make sense
