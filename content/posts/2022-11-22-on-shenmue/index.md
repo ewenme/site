@@ -1,5 +1,5 @@
 ---
-title: 'sipping on shenmue'
+title: 'sipping on Shenmue'
 description:
   'on the anxiety of renting games and why manifesting a proper vibe will likely
   outlast anything technically impressive that you do'
