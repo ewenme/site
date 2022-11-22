@@ -12,9 +12,9 @@ images:
 
 ![Ryo catching the sunset down at the docks](Shenmue_20221112102055.jpg)
 
-At my big age, being a one-time Dreamcast kid feels almost too achingly hipster
-to believe. No word of a lie, I haven't met anyone else who went home to that
-silly, lovable (and bizarrely lightweight) cube. As a cultural artifact it
+At my big age, being a Dreamcast kid once upon a time feels almost too achingly
+Y2K to believe. No word of a lie, I haven't met anyone else who went home to
+that silly, lovable (and bizarrely lightweight) cube. As a cultural artifact it
 perfectly embodies the pre-millennium optimism that every early 90s baby
 remembers being in the air those times. In the same vein as
 [9 PM (Till I Come)](https://www.youtube.com/watch?v=5A9OIIapSko&ab_channel=85KasiaD85)
