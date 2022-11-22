@@ -7,7 +7,7 @@ date: 2022-11-22
 draft: false
 tags: ['video-games']
 images:
-  - https://ewen.io/on-shenmue/Shenmue_20221112102055.jpg
+  - https://ewen.io/sipping-on-shenmue/Shenmue_20221112102055.jpg
 ---
 
 ![Ryo catching the sunset down at the docks](Shenmue_20221112102055.jpg)
