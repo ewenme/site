@@ -1,14 +1,14 @@
 ---
 title: 'on shenmue'
 description: ''
-date: 2022-11-20
+date: 2022-11-22
 draft: false
 tags: ['video-games']
 images:
-  - https://ewen.io/on-shenmue/xxx
+  - https://ewen.io/on-shenmue/Shenmue_20221112102055.jpg
 ---
 
-![]()
+![Ryo catching the sunset down at the docks](Shenmue_20221112102055.jpg)
 
 At my big age, being a one-time Dreamcast kid feels almost too achingly hipster
 to believe. No word of a lie, I haven't met anyone else who went home to that
@@ -19,10 +19,10 @@ remembers being in the air those times. In the same vein as
 and New Labour, these relics formed a giddy tapestry of utopian possible
 futures. Sega really went and launched a console with internet capabilities in
 1998, a time when most of us had to convince mum to unplug the phone so we could
-get half hour on
-[MSN messenger](https://www.youtube.com/watch?v=9pzpQrmzFKw&ab_channel=james19892),
-along with a
-[controller that housed a virtual pet](https://www.youtube.com/watch?v=GCnJDmrit9U&ab_channel=videogameclipcollect)
+get half hour
+onc[MSN messenger](https://www.youtube.com/watch?v=9pzpQrmzFKw&ab_channel=james19892),
+along with
+ac[controller that housed a virtual pet](https://www.youtube.com/watch?v=GCnJDmrit9U&ab_channel=videogameclipcollect)
 inside it. The Dreamcast was the byproduct of an idyllic, often hubristic time
 of
 [Things Can Only Get Better](https://www.youtube.com/watch?v=gi5j7jjhm4M&ab_channel=GreatBritishPolitics)
@@ -45,6 +45,8 @@ dad most enjoyed spending with me, and I think I intuitively understood this as
 I returned the Dreamcast game jewel cases into Bishops Stortford Blockbuster's
 post box.
 
+![Ryo knocking on a door but no-one's home](Shenmue_20220717211356.jpg)
+
 Returning to Shenmue this past month, after 20+ years, was a chance to revisit
 one such game that I had memorable dalliances with during this time. Shenmue was
 developed and published by Sega for the Dreamcast in 1999 (but it came to the UK
@@ -63,8 +65,6 @@ someone up (with tinny voice acting, not Simlish or whatever), or collect toys
 from gacha machines, something felt different. This was a level of immersion and
 simulation that made every other game world before it (and after it, for a
 little while) seem shallow.
-
-![]()
 
 Shenmue is talked up as the first "open city" game ever made (the title for
 first "open world" game might go to an early DMA Design effort for the N64, Body
@@ -89,7 +89,7 @@ mementos around the Hazuki family home like family photos and playable cassette
 tapes. These are touches that aren't even a given in open-world games today.
 Back then, this stuff made my 10 year-old mind go bananas.
 
-![]()
+![The Hazuki kitchen table](Shenmue_20221112115904.jpg)
 
 Quick-time events (QTEs) are another innovation credited to Shenmue. You know
 the one, where you have to press buttons on the controller during action
@@ -127,18 +127,20 @@ pretend for a second that it isn't a video game. This creates charming set
 pieces and encourages playfullness (you are the "player", not the "audience"!).
 I'm still here for all of it.
 
-![]()
+![Ryo in a forklift truck race with his co-workers](Shenmue_20221118123623.jpg)
 
-This game remains painfully of it's time, good and bad. There's no way to
-transport your brain to a time before it experienced Red Dead Redemption II or
-The Last Of Us. It's innovations probably won't be fully appreciated by
-newcomers, through no fault of their own. The writing is frequently hilarious in
-a bad (but sort of good) way. The controls are comedically janky, to the point
-where I wondered if the forklift section of the game inspired how Ryo should
-move in game. The charm is still off the scale, though, and it's hard to
-overstate just how much ground was being broken by this creation. A lot of the
-imaginative heavy lifting for future open-world games was done right here and I
-think it had a profound impact on me. Nice one, dad <3
+This game remains painfully of it's time, good and bad. It's innovations
+probably won't be fully appreciated by newcomers who've already played modern
+AAA open-worlders like Red Dead Redemption II, through no fault of their own.
+The writing is frequently hilarious in a bad (but sort of good) way. The
+controls are comedically janky, to the point where I wondered if the forklift
+section of the game inspired how Ryo should move in game. It's charm is still
+off the scale, though, and so much of the imaginative heavy lifting for future
+open-world games was done right here. This is "slow" art that doesn't make sense
+to dash through because you have to return the game in the morning. It's best
+consumed in one-hour chunks after a bath and before bed, as Tim Rogers might
+advocate. I'm still grateful that I got to experience something groundbreaking
+in the moment, don't get it twisted. Nice one, dad <3
 
 ## Footnotes
 
@@ -146,4 +148,27 @@ think it had a profound impact on me. Nice one, dad <3
 - [A postcard from Yokosuka: Retracing the steps of the original Shenmue](https://www.eurogamer.net/shenmue-retrospective)
 - [phantomriverstone.com](https://www.phantomriverstone.com/)
 - [Shenmue livestream with Heather Alexandra and Tim Rogers](https://www.youtube.com/watch?v=fcx-EF0fgNk)
--
+
+## Screenshot reel
+
+![](Shenmue_20221111112629.jpg)
+
+![](Shenmue_20221114213919.jpg)
+
+![](Shenmue_20221111114238.jpg)
+
+![](Shenmue_20221111115144.jpg)
+
+![](Shenmue_20221111164708.jpg)
+
+![](Shenmue_20221111164935.jpg)
+
+![](Shenmue_20221112120204.jpg)
+
+![](Shenmue_20221113175912.jpg)
+
+![](Shenmue_20221118164906.jpg)
+
+![](Shenmue_20221118170056.jpg)
+
+![](Shenmue_20221118170507.jpg)
