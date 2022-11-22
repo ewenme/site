@@ -14,58 +14,58 @@ images:
 
 At my big age, being a one-time Dreamcast kid feels almost too achingly hipster
 to believe. No word of a lie, I haven't met anyone else who went home to that
-silly, lovable (and surprisingly lightweight) cube. As a cultural artifact it
+silly, lovable (and bizarrely lightweight) cube. As a cultural artifact it
 perfectly embodies the pre-millennium optimism that every early 90s baby
 remembers being in the air those times. In the same vein as
 [9 PM (Till I Come)](https://www.youtube.com/watch?v=5A9OIIapSko&ab_channel=85KasiaD85)
 and New Labour, these relics formed a giddy tapestry of utopian possible
 futures. Sega really went and launched a console with internet capabilities in
 1998, a time when most of us had to convince mum to unplug the phone so we could
-get half hour
-on[MSN messenger](https://www.youtube.com/watch?v=9pzpQrmzFKw&ab_channel=james19892),
+get half hour on
+[MSN messenger](https://www.youtube.com/watch?v=9pzpQrmzFKw&ab_channel=james19892),
 along with
 ac[controller that housed a virtual pet](https://www.youtube.com/watch?v=GCnJDmrit9U&ab_channel=videogameclipcollect)
 inside it. The Dreamcast was the byproduct of an idyllic, hubris-heavy time of
 [Things Can Only Get Better](https://www.youtube.com/watch?v=gi5j7jjhm4M&ab_channel=GreatBritishPolitics)
 type vibes.
 
-My whirlwind Dreamcast romance feels oddly personal, because it lived in my
+My whirlwind Dreamcast romance feels oddly personal, because it lived at my
 dad's house. I didn't have any friends where my dad lived, so when I played it I
 was almost always on my ones. I had never owned previous-gen Sega consoles, so
 my reference points were limited to the odd turn of Sonic or Aladdin after
 school at mate's houses. The fact that so much of it's functionality was beyond
 my own (and my dad's) comprehension gave it a mystical appeal, like a
-premonition of the wonders the new millennium was to bring. Because I didn't get
-to play it much, I tended to rent out games (maybe the most accurate prelude to
-the future we ended up with - rentier capitalism) for a night or two. The
-time-boxed nature of the video game rental lent itself to intense, transfixed
-play sessions that I have trouble filing away as "good" memories. The game
-usually had to be returned the next day, when I would then be returned to my
-mum's house too. I can't imagine that these kinds of weekends were the ones my
-dad most enjoyed spending with me, and I think I intuitively understood this as
-I returned the Dreamcast game jewel cases into Bishops Stortford Blockbuster's
-post box.
+premonition of future wonders the new millennium was to bring. Because I didn't
+get to play it much, I tended to rent out games (maybe the most accurate prelude
+to the new millennium we ended up with - rentier capitalism) for a night or two.
+The time-boxed nature of the video game rental lent itself to intense,
+transfixed play sessions that I have trouble filing away as "good" memories. The
+game usually had to be returned the next day, when I would then be returned to
+my mum's house too. I can't imagine that these kinds of weekends were the ones
+my dad most enjoyed spending with me, and I think I intuitively understood this
+as I dropped the Dreamcast game jewel cases into Bishops Stortford Blockbuster's
+post box and snapped back to reality.
 
 ![Ryo knocking on a door but no-one's home](Shenmue_20220717211356.jpg)
 
-Returning to Shenmue this past month, after 20+ years, was a chance to revisit
-one such game that I had memorable dalliances with during this time. Shenmue was
+Returning to Shenmue this past month, after 20+ years, was a chance to revisit a
+game that I had memorable dalliances with during this time. Shenmue was
 developed and published by Sega for the Dreamcast in 1999 (but it came to the UK
 in 2000) and "remastered" for the PS4 in 2019. It was created, produced and
 directed by [Yu Suzuki](https://en.wikipedia.org/wiki/Yu_Suzuki) of Virtua
 Fighter and Outrun fame. The development cost was unprecedented in it's time,
 [holding the production budget record ($70 million) for 9(!) years until GTA IV ($100 million)](https://www.eurogamer.net/gta-iv-is-most-expensive-game-ever-made#:~:text=Grand%20Theft%20Auto%20IV%20%2D%20%24100,Shenmue%20%2D%20%2470%20million)
 was released in 2008. Ironic that basically everyone I know played and gawped at
-GTA IV, but if I brought up Shenmue in the same rooms there would usually be
-crickets. Unfortunately, groundbreaking technical feats like this are really
-difficult to appreciate later ("you had to be there", basically). If you show
-someone Blade Runner today, they will probably enjoy the film but think that the
-special effects are goofy. When I first traipsed around Shenmue's streets and
-realised I could go into the arcade to play other Yu Suzuki games, or phone
-someone up (with tinny voice acting, not Simlish or whatever), or collect toys
-from gacha machines, something felt different. This was a level of immersion and
-simulation that made every other game world before it (and after it, for a
-little while) seem shallow.
+GTA IV, but if I brought up Shenmue in the same rooms there would be crickets.
+Unfortunately, groundbreaking technical feats like this are really difficult to
+appreciate later ("you had to be there", basically). If you show someone Blade
+Runner for the first time today, they will probably enjoy the film but think
+that the special effects are goofy. When I first traipsed around Shenmue's
+streets and realised I could go into the arcade to play other Yu Suzuki games,
+or phone someone up (with tinny voice acting, not Simlish or whatever), or
+collect toys from gacha machines, something felt different. This was a level of
+immersion and simulation that made every other game world before it (and after
+it, for a little while) seem shallow.
 
 ![Ryo going just one more time on the gacha machine](Shenmue_20221118170507.jpg)
 
