@@ -1,6 +1,8 @@
 ---
 title: 'on shenmue'
-description: ''
+description:
+  'why manifesting a proper vibe will likely outlast anything technically
+  impressive that you do with your time on this rock'
 date: 2022-11-22
 draft: false
 tags: ['video-games']
@@ -135,11 +137,11 @@ The writing is frequently hilarious in a bad (but sort of good) way. The
 controls are comically janky, to the point where I wondered if the forklift
 section of the game inspired how Ryo should move in game. It's charm is still
 off the scale, though, and so much of the imaginative heavy lifting for future
-open-world games was done right here. This is "slow" art that doesn't make sense
-to dash through because you have to return the game in the morning. It's best
-consumed in one-hour chunks after a bath and before bed, as Tim Rogers might
-advocate. I'm still grateful that I got to experience something groundbreaking
-in the moment, don't get it twisted. Nice one, dad <3
+open-world games was done right here. This is "slow" art that should be sipped.
+It doesn't make sense to dash through because you have to return the game in the
+morning. I'm still grateful that I got to experience something groundbreaking in
+the moment, don't get it twisted, but the atmosphere Shenmue bathes you in is
+what makes it a lovely time today. Nice one, dad <3
 
 ## Footnotes
 
