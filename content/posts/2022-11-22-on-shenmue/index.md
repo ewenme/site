@@ -67,6 +67,8 @@ from gacha machines, something felt different. This was a level of immersion and
 simulation that made every other game world before it (and after it, for a
 little while) seem shallow.
 
+![Ryo going just one more time on the gacha machine](Shenmue_20221118170507.jpg)
+
 Shenmue is talked up as the first "open city" game ever made (the title for
 first "open world" game might go to an early DMA Design effort for the N64, Body
 Harvest, which I also rented). I don't really know how much meaning I ascribe to
@@ -171,5 +173,3 @@ what makes it a lovely time today. Nice one, dad <3
 ![](Shenmue_20221118164906.jpg)
 
 ![](Shenmue_20221118170056.jpg)
-
-![](Shenmue_20221118170507.jpg)
