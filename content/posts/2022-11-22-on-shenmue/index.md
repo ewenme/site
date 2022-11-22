@@ -1,8 +1,8 @@
 ---
-title: 'on shenmue'
+title: 'sipping on shenmue'
 description:
-  'why manifesting a proper vibe will likely outlast anything technically
-  impressive that you do with your time on this rock'
+  'on the anxiety of renting games and why manifesting a proper vibe will likely
+  outlast anything technically impressive that you do'
 date: 2022-11-22
 draft: false
 tags: ['video-games']
@@ -23,8 +23,8 @@ futures. Sega really went and launched a console with internet capabilities in
 1998, a time when most of us had to convince mum to unplug the phone so we could
 get half hour on
 [MSN messenger](https://www.youtube.com/watch?v=9pzpQrmzFKw&ab_channel=james19892),
-along with
-ac[controller that housed a virtual pet](https://www.youtube.com/watch?v=GCnJDmrit9U&ab_channel=videogameclipcollect)
+along with a
+[controller that housed a virtual pet](https://www.youtube.com/watch?v=GCnJDmrit9U&ab_channel=videogameclipcollect)
 inside it. The Dreamcast was the byproduct of an idyllic, hubris-heavy time of
 [Things Can Only Get Better](https://www.youtube.com/watch?v=gi5j7jjhm4M&ab_channel=GreatBritishPolitics)
 type vibes.
@@ -48,8 +48,8 @@ post box and snapped back to reality.
 
 ![Ryo knocking on a door but no-one's home](Shenmue_20220717211356.jpg)
 
-Returning to Shenmue this past month, after 20+ years, was a chance to revisit a
-game that I had memorable dalliances with during this time. Shenmue was
+Returning to Shenmue this past month, 20+ years on was a chance to slowly play a
+game that I had memorable dalliances with during that time. Shenmue was
 developed and published by Sega for the Dreamcast in 1999 (but it came to the UK
 in 2000) and "remastered" for the PS4 in 2019. It was created, produced and
 directed by [Yu Suzuki](https://en.wikipedia.org/wiki/Yu_Suzuki) of Virtua
