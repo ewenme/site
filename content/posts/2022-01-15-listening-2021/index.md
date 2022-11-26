@@ -1,6 +1,6 @@
 ---
 title: 'listening, 2021'
-description: 'music I was thankful for in 2020.'
+description: 'music I was thankful for in 2021.'
 date: 2022-01-15T21:09:44Z
 draft: false
 tags: ['listening']
