@@ -148,6 +148,7 @@ what makes it a lovely time today. Nice one, dad <3
 ## Footnotes
 
 - [Dreamcast: A Forensic Retrospective](https://www.eurogamer.net/dreamcast-a-forensic-retrospective-article)
+- [The Making of Shenmue](https://readonlymemory.vg/the-making-of-shenmue/)
 - [A postcard from Yokosuka: Retracing the steps of the original Shenmue](https://www.eurogamer.net/shenmue-retrospective)
 - [phantomriverstone.com](https://www.phantomriverstone.com/)
 - [Shenmue livestream with Heather Alexandra and Tim Rogers](https://www.youtube.com/watch?v=fcx-EF0fgNk)
