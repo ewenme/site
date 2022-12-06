@@ -1,9 +1,11 @@
 ---
 title: 'listening, 2022'
 description: 'some of the music I was thankful for in 2022.'
-date: 2022-12-05
+date: 2022-12-06
 draft: false
 tags: ['listening']
+images:
+  - https://ewen.io/listening-2022/porco.jpg
 ---
 
 Whomst do I think I am with these EOY lists? Anyway here is a collection of
