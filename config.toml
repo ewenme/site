@@ -45,7 +45,7 @@ url = "/index.xml"
 [[menu.footer]]
 name = "email"
 weight = 3
-url = "mailt:ewenme@tutanota.com"
+url = "mailto:ewenme@tutanota.com"
 
 [[menu.footer]]
 name = "github"
