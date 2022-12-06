@@ -17,7 +17,7 @@ pass-the-aux situation where ur other selections are bringing the vibe down.
 
 ## DJ Python — Angel
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3583986897/size=small/bgcol=ffffff/linkcol=0687f5/track=1159184396/transparent=true/" seamless><a href="https://djpythonnyc.bandcamp.com/album/club-sentimientos-vol-2">Club Sentimientos Vol 2 by DJ Python</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3583986897/size=small/bgcol=ffffff/linkcol=333333/track=1159184396/transparent=true/" seamless><a href="https://djpythonnyc.bandcamp.com/album/club-sentimientos-vol-2">Club Sentimientos Vol 2 by DJ Python</a></iframe>
 
 DJ Python makes music you can dance to, cry to, have a bubblebath for a little
 too long to. The first time I heard _Angel_, my mind transported me back to a
@@ -60,7 +60,7 @@ flowers are rightfully flowing <3
 
 ## Nate Scheible — Fairfax
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3811368490/size=small/bgcol=ffffff/linkcol=0687f5/track=2038031905/transparent=true/" seamless><a href="https://natescheible.bandcamp.com/album/fairfax">Fairfax by Nate Scheible</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3811368490/size=small/bgcol=ffffff/linkcol=333333/track=2038031905/transparent=true/" seamless><a href="https://natescheible.bandcamp.com/album/fairfax">Fairfax by Nate Scheible</a></iframe>
 
 Of everything I've rounded up here, listening to this record is the most
 emotionally exhausting and haunting of all. Not one I've got on heavy rotation
@@ -71,7 +71,7 @@ listening to someone's most private confession.
 
 ## Angel D'lite — 303 Dalmatians
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3742062562/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://planeteuphorique.bandcamp.com/album/303-dalmatians">303 Dalmatians by Angel D&#39;Lite</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3742062562/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://planeteuphorique.bandcamp.com/album/303-dalmatians">303 Dalmatians by Angel D&#39;Lite</a></iframe>
 
 A Kode 9 RA Exchange episode this year has stuck with me. In particular, he
 explains how club music doesn't change over time in a linear fashion but that
@@ -83,7 +83,7 @@ Dalmatians_ is sugary-sweet pop rave bliss with a sour kick for good measure.
 
 ## Vegyn — Don't Follow Me Because I'm Lost Too!!
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3767420141/size=small/bgcol=ffffff/linkcol=0687f5/track=569564039/transparent=true/" seamless><a href="https://vegyn.bandcamp.com/album/dont-follow-me-because-im-lost-too">Don&#39;t Follow Me Because I&#39;m Lost Too!! by Vegyn</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3767420141/size=small/bgcol=ffffff/linkcol=333333/track=569564039/transparent=true/" seamless><a href="https://vegyn.bandcamp.com/album/dont-follow-me-because-im-lost-too">Don&#39;t Follow Me Because I&#39;m Lost Too!! by Vegyn</a></iframe>
 
 I wasn't rly hip to Vegyn until quite recently but I knew I had to get busy in
 the back catalogue when I found myself chomping through this 75(!) track beat
@@ -97,7 +97,7 @@ teases a different sonic landscape. Find a spare hour and get the incense going.
 
 ## Kali Malone — Living Torch
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3191162786/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://kalimalone.bandcamp.com/album/living-torch">Living Torch by Kali Malone</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3191162786/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://kalimalone.bandcamp.com/album/living-torch">Living Torch by Kali Malone</a></iframe>
 
 I'm not well read in music theory and don't play an instrument so I can't tell
 you if this record is technically impressive or what not. It's fucking intense
@@ -108,7 +108,7 @@ this remains baffling and mystical.
 
 ## HiTech — HiTech
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1749468840/size=small/bgcol=ffffff/linkcol=0687f5/track=3635037957/transparent=true/" seamless><a href="https://omar-s.bandcamp.com/album/hitech">HiTech by Feat, Stephan xix, Nila and King Milo produced by King Milo</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1749468840/size=small/bgcol=ffffff/linkcol=333333/track=3635037957/transparent=true/" seamless><a href="https://omar-s.bandcamp.com/album/hitech">HiTech by Feat, Stephan xix, Nila and King Milo produced by King Milo</a></iframe>
 
 Debut full-length of the cutest and catchiest ghetto tech bops from Detroit duo
 Milf Melly and King Milo AKA HiTech, rubber-stamped by none other than Omar S.
@@ -128,7 +128,7 @@ inspired by the fearlessness on full display every single time.
 
 ## Influenza Prods. — Mémoire
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2002711063/size=small/bgcol=ffffff/linkcol=0687f5/track=3726197827/transparent=true/" seamless><a href="https://influenzaprods.bandcamp.com/album/me-moire">Mémoire by Influenza Prods.</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2002711063/size=small/bgcol=ffffff/linkcol=333333/track=3726197827/transparent=true/" seamless><a href="https://influenzaprods.bandcamp.com/album/me-moire">Mémoire by Influenza Prods.</a></iframe>
 
 Sometimes you know a record is going to be hard from just it's backstory. In
 this case, Bruno De Angelis and Giovanna Gulinello got together after one was
@@ -141,7 +141,7 @@ treasure now.
 
 ## Death Is Not The End — Pure Wicked Tune: Rare Groove Blues Dances & House Parties, 1985-1992
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3030830616/size=small/bgcol=ffffff/linkcol=0687f5/track=162905885/transparent=true/" seamless><a href="https://deathisnot.bandcamp.com/album/pure-wicked-tune-rare-groove-blues-dances-house-parties-1985-1992">Pure Wicked Tune: Rare Groove Blues Dances &amp; House Parties, 1985-1992 by Death Is Not The End</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3030830616/size=small/bgcol=ffffff/linkcol=333333/track=162905885/transparent=true/" seamless><a href="https://deathisnot.bandcamp.com/album/pure-wicked-tune-rare-groove-blues-dances-house-parties-1985-1992">Pure Wicked Tune: Rare Groove Blues Dances &amp; House Parties, 1985-1992 by Death Is Not The End</a></iframe>
 
 This label have been putting out the maddest, deepest treasure trove
 compilations of all sorts of goodness. I could've easily picked out either of
@@ -152,7 +152,7 @@ in South London circa 1990. Somebody pls pass your man a flashlight...
 
 ## Moin — Paste
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2622564160/size=small/bgcol=ffffff/linkcol=0687f5/track=1951177551/transparent=true/" seamless><a href="https://m-o-i-n.bandcamp.com/album/paste-2">Paste by Moin</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2622564160/size=small/bgcol=ffffff/linkcol=333333/track=1951177551/transparent=true/" seamless><a href="https://m-o-i-n.bandcamp.com/album/paste-2">Paste by Moin</a></iframe>
 
 _Paste_ is a heady trip through muddy guitar riffs and ruff electronics, full of
 heart and punchy vocals. It's really got me back in to guitar music and wanting
@@ -172,7 +172,7 @@ to this day. Love to see Frisco about and firing on all cylinders.
 
 ## rRoxymore — Perpetual Now
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2482570296/size=small/bgcol=ffffff/linkcol=0687f5/track=2402142078/transparent=true/" seamless><a href="https://rroxymore.bandcamp.com/album/perpetual-now">Perpetual Now by rRoxymore</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2482570296/size=small/bgcol=ffffff/linkcol=333333/track=2402142078/transparent=true/" seamless><a href="https://rroxymore.bandcamp.com/album/perpetual-now">Perpetual Now by rRoxymore</a></iframe>
 
 Probably the only record on here I'd (broadly) label as techno, but that doesn't
 tell half the story. Each track is a heads-down, wigged-out excursion into the
