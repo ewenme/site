@@ -6,7 +6,7 @@ date: 2023-08-04
 draft: false
 tags: ['feminism', 'film']
 images:
-  - https://ewen.io/barbie-bell-hooks/issa-rae-barbie-movie.jpeg
+  - issa-rae-barbie-movie.jpeg
 ---
 
 ![Issa Rae elected as President Barbie, flanked by Barbie representatives of the "Pinkhouse". Everyone wears pink jumpsuits and cheers.](issa-rae-barbie-movie.jpeg)
@@ -16,7 +16,7 @@ images:
 <footer>bell hooks<cite> <a href="https://collectiveliberation.org/wp-content/uploads/2013/01/hooks_Love_As_The_Practice_Of_Freedom.pdf">https://collectiveliberation.org/wp-content/uploads/2013/01/hooks_Love_As_The_Practice_Of_Freedom.pdf</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 			
-I thought [_Barbie_)](https://letterboxd.com/film/barbie/) was a solid film. Powerful tonal shifts, a mostly
+I thought [_Barbie_](https://letterboxd.com/film/barbie/) was a solid film. Powerful tonal shifts, a mostly
 banging soundtrack and emotional heft in the right places (my gf was in bits after five mins). There's the whole
 franchise/sequel dark age critique that has been done to death, although
 [Blindboy found an angle](https://play.acast.com/s/blindboy/barbie-and-mattel-as-millennial-pavlovian-conditioning)
