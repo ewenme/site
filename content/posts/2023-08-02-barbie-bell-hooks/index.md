@@ -5,8 +5,7 @@ description:
 date: 2023-08-04
 draft: false
 tags: ['feminism', 'film']
-images:
-  - issa-rae-barbie-movie.jpeg
+images: ['barbie-and-bell-hooks/issa-rae-barbie-movie.jpeg']
 ---
 
 ![Issa Rae elected as President Barbie, flanked by Barbie representatives of the "Pinkhouse". Everyone wears pink jumpsuits and cheers.](issa-rae-barbie-movie.jpeg)
