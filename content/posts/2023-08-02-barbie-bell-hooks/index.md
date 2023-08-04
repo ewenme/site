@@ -1,5 +1,5 @@
 ---
-title: 'Barbie and bell hooks'
+title: 'barbie and bell hooks'
 description:
   'The Will to Uphold the Status Quo? Barbie, Femininity, and Pessimism'
 date: 2023-08-04
