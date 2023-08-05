@@ -4,6 +4,7 @@ description: 'how to do all the boring bits behind a DIY online radio show.'
 date: 2022-09-30
 draft: false
 tags: ['music']
+images: ['homemade-radio-a-field-guide/notion.png']
 ---
 
 I've been broadcasting a homemade radio show with my mate for nearly a year now.

@@ -4,8 +4,7 @@ description: 'atoxta tower, san sebastian'
 date: 2022-09-06
 draft: false
 tags: ['travel']
-images:
-  - https://ewen.io/atoxta-tower/atoxta-stadium.jpeg
+images: ['the-atoxta-tower/atoxta-stadium.jpeg']
 ---
 
 I was in San Sebastian last week. I stayed right across from the Atoxta tower,
