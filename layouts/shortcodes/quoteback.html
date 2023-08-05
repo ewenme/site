@@ -1,0 +1,4 @@
+<blockquote class="quoteback" darkmode="" {{ with .Get "title" }}data-title="{{ . }}"{{ end }} {{ with .Get "author" }}data-author="{{ . }}"{{ end }} {{ with .Get "url" }}cite="{{ . }}"{{ end }}>
+    <span>{{ .Get "text" }}</span>
+    <footer>{{ .Get "author" }}<cite> <a {{ with .Get "url" }}href="{{ . }}"{{ end }}>{{ .Get "url" }}</a></cite></footer>
+    </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>

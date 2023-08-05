@@ -10,13 +10,11 @@ images: ['barbie-and-bell-hooks/issa-rae-barbie-movie.jpeg']
 
 ![Issa Rae elected as President Barbie, flanked by Barbie representatives of the "Pinkhouse". Everyone wears pink jumpsuits and cheers.](issa-rae-barbie-movie.jpeg)
 
-<blockquote class="quoteback" darkmode="" data-title="Outlaw Culture: Resisting Representations (2012)" data-author="bell hooks" cite="https://collectiveliberation.org/wp-content/uploads/2013/01/hooks_Love_As_The_Practice_Of_Freedom.pdf">
-<span>The function of art is to do more than tell it like it is – it’s to imagine what is possible.</span>
-<footer>bell hooks<cite> <a href="https://collectiveliberation.org/wp-content/uploads/2013/01/hooks_Love_As_The_Practice_Of_Freedom.pdf">https://collectiveliberation.org/wp-content/uploads/2013/01/hooks_Love_As_The_Practice_Of_Freedom.pdf</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-			
-I thought [_Barbie_](https://letterboxd.com/film/barbie/) was a solid film. Powerful tonal shifts, a mostly
-banging soundtrack and emotional heft in the right places (my gf was in bits after five mins). There's the whole
+{{< quoteback title="Outlaw Culture: Resisting Representations (2012)" author="bell hooks" url="https://collectiveliberation.org/wp-content/uploads/2013/01/hooks_Love_As_The_Practice_Of_Freedom.pdf" text="The function of art is to do more than tell it like it is – it’s to imagine what is possible." >}}
+
+I thought [_Barbie_](https://letterboxd.com/film/barbie/) was a solid film.
+Powerful tonal shifts, a mostly banging soundtrack and emotional heft in the
+right places (my gf was in bits after five mins). There's the whole
 franchise/sequel dark age critique that has been done to death, although
 [Blindboy found an angle](https://play.acast.com/s/blindboy/barbie-and-mattel-as-millennial-pavlovian-conditioning)
 wondering when millennials will finally be marketed to as middle-age instead of
@@ -67,10 +65,7 @@ that a traditionally hierarchical, toxic, macho culture reasserted it's
 exploitative practices via women who had learnt well from the patriarchs that
 came before them. As hooks says:
 
-<blockquote class="quoteback" darkmode="" data-title="The Will to Change: Men, Masculinity, and Love" data-author="bell hooks" cite="https://archive.org/details/willtochangemen00hook">
-<span>More than ever before in our nation’s history, females are encouraged to assume the patriarchal mask and bury their emotional selves as deeply as their male counterparts do. Females embrace this paradigm because they feel it is better to be a dominator than to be dominated. However, this is a perverse vision of gender equality that offers women equal access to the house of the dead. In that house there will be no love.</span><br>
-<footer>bell hooks<cite> <a href="https://archive.org/details/willtochangemen00hook">https://archive.org/details/willtochangemen00hook</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+{{< quoteback title="The Will to Change: Men, Masculinity, and Love (2004)" author="bell hooks" url="https://archive.org/details/willtochangemen00hook" text="More than ever before in our nation’s history, females are encouraged to assume the patriarchal mask and bury their emotional selves as deeply as their male counterparts do. Females embrace this paradigm because they feel it is better to be a dominator than to be dominated. However, this is a perverse vision of gender equality that offers women equal access to the house of the dead. In that house there will be no love." >}}
 
 📢 Oi!!! Barbie spoiler warning ahead 📢
 
