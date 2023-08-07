@@ -28,7 +28,6 @@ images = "/gudetama.jpeg"
 [params.author]
 name = "ewen"
 homepage = "https://ewen.io"
-twitterHandle = "ewen_"
 
 [menu]
 
